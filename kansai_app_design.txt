@@ -1,0 +1,55 @@
+Users
+-learnedWords
+
+Landmark (or Location)
+-id: Unique identifier (e.g., "kiyomizudera", "osaka_castle"). Crucially, this is an ID, not just a display name, to ensure polymorphism.
+-name: Display name (e.g., "Kiyomizu-dera", "Osaka Castle").
+-coordinates: (Optional for MVP, if using a real map) Geographic coordinates (latitude, longitude). If using a static image, this might be relative coordinates on the image.
+-image: (Optional) An image of the landmark.
+-shortDescription: A brief description of the landmark.
+
+Words
+-id: Unique identifier.
+-kansaiExpression: The word/phrase in Kansai-ben (or Kyoto dialect).
+-standardJapanese: (Optional) The equivalent in standard Japanese.
+-englishTranslation: The English translation.
+-pronunciationHint: (Optional) Textual hints on pronunciation.
+-audioURL: (Optional, for later) URL of an audio file for pronunciation.
+-imageAsset: a visual cue for helping memorizing.
+-exampleSentence
+-location
+
+Lesson
+-id: Unique identifier.
+-landmarkId: The id of the associated Landmark.
+-vocabItemIds: A list (ordered) of ids of the VocabItems in this lesson. Order is important for presentation.
+-currentVocabItemIndex: (Optional, for tracking progress within the lesson) The index of the currently displayed VocabItem.
+-character: a image of character that will teach the lesson
+
+Quiz
+--Purpose: To test the user's understanding of the VocabItems in a Lesson (or across multiple lessons).
+
+-id
+-lessonIds: The ids of the Lessons covered by this quiz. Could be a single lesson or multiple.
+-questions: A list of Question objects (see below).
+-currentQuestionIndex: The index of the currently displayed question.
+-score: The user's current score on the quiz.
+-isComplete: Boolean indicating whether the quiz has been completed.
+
+
+Question:
+
+Purpose: To represent a single question within a Quiz.
+
+-Operational Principle: The system displays a question; the user provides an answer.
+
+-id
+-quizId: The id of the quiz it is from
+-questionText: The text of the question (e.g., "What is the Kansai-ben word for 'thank you'?").
+-options: A list of possible answers (strings).
+-correctAnswerIndex: The index of the correct answer within the options list.
+-vocabItemId: (Optional) The id of the VocabItem this question is testing. This is useful for providing targeted feedback.
+
+Progress
+--Purpose: To track the user's overall progress in the app (which landmarks they've explored, which lessons they've completed, their quiz scores).
+
