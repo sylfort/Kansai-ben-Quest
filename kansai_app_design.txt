@@ -1,3 +1,5 @@
+flutter run -d web-server --web-hostname 0.0.0.0 --web-port 3000
+----
 Users
 -learnedWords
 
@@ -10,14 +12,13 @@ Landmark (or Location)
 
 Words
 -id: Unique identifier.
--kansaiExpression: The word/phrase in Kansai-ben (or Kyoto dialect).
--standardJapanese: (Optional) The equivalent in standard Japanese.
+-kansaiExpression: The word/phrase in Kansai-ben.
+-standardJapanese: The equivalent in standard Japanese.
 -englishTranslation: The English translation.
--pronunciationHint: (Optional) Textual hints on pronunciation.
--audioURL: (Optional, for later) URL of an audio file for pronunciation.
--imageAsset: a visual cue for helping memorizing.
--exampleSentence
--location
+-exampleSentence: a sentence in Kansai-ben using the word or phrase.
+-standardJapaneseSentence: The equivalent sentence in standard Japanese.
+-englishSentence: The English translation for the sentence.
+-location: From which prefecture this word or phrase is from.
 
 Lesson
 -id: Unique identifier.
