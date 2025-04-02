@@ -1,6 +1,16 @@
 import 'package:flutter/material.dart';
-import 'custom_hit_test_image.dart';
 
+// --- Local Imports ---
+import 'custom_hit_test_image.dart';
+import 'screens/initial_screen.dart';
+// ---> ADD THIS IMPORT for your new Hyougo Page <---
+import 'screens/hyougo_page.dart';
+import 'screens/osaka_page.dart';
+import 'screens/kyouto_page.dart';
+import 'screens/nara_page.dart';
+import 'screens/shiga_page.dart';
+import 'screens/wakayama_page.dart';
+import 'screens/mie_page.dart';
 void main() {
   runApp(const MyApp());
 }
@@ -11,40 +21,51 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Kansai Ben Quest',
       theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
+        // Consider defining your theme colors here for app-wide consistency
+        colorScheme: ColorScheme.fromSeed(
+          seedColor: const Color(0xFFE55934), // Example: Use orange as seed
+          primary: const Color(0xFFE55934), // Orange
+          secondary: const Color(0xFFF5B700), // Gold
+          background: const Color(0xFFF2D7A9), // Beige background
+          onBackground: const Color(0xFF2A1201), // Dark text on background
+          surface: const Color(0xFFFAEBCD), // Card background
+          onSurface: const Color(0xFF2A1201), // Dark text on cards
+        ),
         useMaterial3: true,
+        // You can also define AppBarTheme, TextTheme etc. here
       ),
-      home: MyHomePage(title: 'Flutter Demo Home Page'),
+      home: const InitialScreen(), // Start with the initial screen
       routes: {
-        '/hyougo': (context) => const DestinationPage(title: 'Hyougo'),
-        '/kyouto': (context) => const DestinationPage(title: 'Kyouto'),
-        '/mie': (context) => const DestinationPage(title: 'Mie'),
-        '/nara': (context) => const DestinationPage(title: 'Nara'),
-        '/osaka': (context) => const DestinationPage(title: 'Osaka'),
-        '/shiga': (context) => const DestinationPage(title: 'Shiga'),
-        '/wakayama': (context) => const DestinationPage(title: 'Wakayama'),
+        // The route to the map screen
+        '/map': (context) => MyHomePage(title: 'Kansai Region Map'),
+
+        '/hyougo': (context) => const HyougoPage(),
+        '/osaka': (context) => const OsakaPage(),
+        '/kyouto': (context) => const KyotoPage(),
+        '/nara': (context) => const NaraPage(),
+        '/shiga': (context) => const ShigaPage(),
+        '/wakayama': (context) => const WakayamaPage(),
+        '/mie': (context) => const MiePage(),
       },
     );
   }
 }
 
+// --- MyHomePage (Map Screen) remains the same ---
 class MyHomePage extends StatelessWidget {
   MyHomePage({super.key, required this.title});
 
   final String title;
-
   final List<Map<String, dynamic>> destinations = [
-    {
+     {
       'image': 'assets/images/hyougo.png',
-      'route': '/hyougo',
+      'route': '/hyougo', // This route name now correctly points to HyougoPage
       'top': 90.0,
       'left': 115.0,
-      // Define hit test rectangles (relative to the image's top-left)
       'hitTestRects': [
-        const Rect.fromLTWH(0, 0, 275, 265), // Adjust these!  Example values.
-        // Add more Rects if hyougo.png has multiple green areas
+        const Rect.fromLTWH(0, 0, 275, 265),
       ],
     },
     {
@@ -53,7 +74,7 @@ class MyHomePage extends StatelessWidget {
       'top': 420.0,
       'left': 300.0,
       'hitTestRects': [
-        const Rect.fromLTWH(0, 30, 180, 215), // Adjust!
+        const Rect.fromLTWH(0, 30, 180, 215),
       ],
     },
     {
@@ -62,26 +83,17 @@ class MyHomePage extends StatelessWidget {
       'top': 60.0,
       'left': 260.0,
       'hitTestRects': [
-        const Rect.fromLTWH(0, 0, 225, 250), // Adjust!
+        const Rect.fromLTWH(0, 0, 225, 250),
       ],
     },
-    //  Mie is commented out in your code.
-    // {
-    //   'image': 'assets/images/mie.png',
-    //   'route': '/mie',
-    //   'top': 280.0,
-    //   'left': 200.0,
-    //   'hitTestRects': [
-    //    const Rect.fromLTWH(0, 0, 200, 150), //Example
-    //   ],
-    // },
+    // Mie commented out
     {
       'image': 'assets/images/nara.png',
       'route': '/nara',
       'top': 325.0,
       'left': 390.0,
       'hitTestRects': [
-        const Rect.fromLTWH(71, 0, 150, 220), // Adjust!
+        const Rect.fromLTWH(71, 0, 150, 220),
       ],
     },
     {
@@ -90,7 +102,7 @@ class MyHomePage extends StatelessWidget {
       'top': 80.0,
       'left': 440.0,
       'hitTestRects': [
-        const Rect.fromLTWH(82, 31, 208, 190), // Adjust!
+        const Rect.fromLTWH(82, 31, 208, 190),
       ],
     },
     {
@@ -100,7 +112,7 @@ class MyHomePage extends StatelessWidget {
       'left': 342.0,
       'hitTestRects': [
         const Rect.fromLTWH(48, 7, 131, 190),
-        const Rect.fromLTWH(0, 179, 114, 216), // Adjust!
+        const Rect.fromLTWH(0, 179, 114, 216),
       ],
     },
   ];
@@ -109,10 +121,11 @@ class MyHomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Theme.of(context).colorScheme.inversePrimary,
+        // AppBar theme will now be influenced by ThemeData
+        // backgroundColor: Theme.of(context).colorScheme.inversePrimary, // You can remove this if using AppBarTheme
         title: Text(title),
       ),
-      body: Center(
+      body: Center( // Keep Center if you want the map centered on larger screens
         child: SingleChildScrollView(
           child: SizedBox(
             height: 700,
@@ -125,14 +138,11 @@ class MyHomePage extends StatelessWidget {
                         top: destination['top'],
                         left: destination['left'],
                         child: CustomHitTestImage(
-                          // Use the custom widget
-                          hitTestRects:
-                              destination['hitTestRects']
-                                  .cast<Rect>(), // Cast to List<Rect>
+                          hitTestRects: destination['hitTestRects'].cast<Rect>(),
                           child: InkWell(
-                            //You can remove the onTap here, and the click will be
-                            // handled by CustomHitTestImage
                             onTap: () {
+                              // This pushNamed will now correctly go to HyougoPage
+                              // when the hyougo image is tapped
                               Navigator.pushNamed(
                                 context,
                                 destination['route']!,
@@ -155,6 +165,7 @@ class MyHomePage extends StatelessWidget {
   }
 }
 
+// --- DestinationPage (Generic Placeholder - Keep if other routes use it) ---
 class DestinationPage extends StatelessWidget {
   const DestinationPage({super.key, required this.title});
 
@@ -164,7 +175,7 @@ class DestinationPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(title: Text(title)),
-      body: Center(child: Text('Welcome to $title!')),
+      body: Center(child: Text('Welcome to $title! (Placeholder)')), // Added Placeholder text
     );
   }
 }

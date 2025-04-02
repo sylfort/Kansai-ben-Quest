@@ -1,0 +1,593 @@
+[
+    
+  {
+    "id": 503,
+    "kansaiExpression": "あいた",
+    "standardJapanese": "明日",
+    "englishTranslation": "tomorrow",
+    "exampleSentence": "あいた、天気になあれ。",
+    "standardJapaneseSentence": "明日、天気になあれ。",
+    "englishSentence": "Let it be sunny tomorrow.",
+    "location": "Wakayama"
+  },
+  {
+    "id": 504,
+    "kansaiExpression": "あが",
+    "standardJapanese": "私",
+    "englishTranslation": "I, me",
+    "exampleSentence": "あが が言うとくわ。",
+    "standardJapaneseSentence": "私が言っておくよ。",
+    "englishSentence": "I'll tell them.",
+    "location": "Wakayama"
+  },
+  {
+    "id": 505,
+    "kansaiExpression": "あかい",
+    "standardJapanese": "明るい",
+    "englishTranslation": "bright",
+    "exampleSentence": "部屋、もっと あかい ほうがええなあ。",
+    "standardJapaneseSentence": "部屋は、もっと明るい方がいいなあ。",
+    "englishSentence": "I wish the room were brighter.",
+    "location": "Wakayama"
+  },
+  {
+    "id": 506,
+    "kansaiExpression": "あがら",
+    "standardJapanese": "わたしたち",
+    "englishTranslation": "we, us",
+    "exampleSentence": "あがら も一緒に行くで。",
+    "standardJapaneseSentence": "わたしたちも一緒に行くよ。",
+    "englishSentence": "We'll go together too.",
+    "location": "Wakayama"
+  },
+  {
+    "id": 507,
+    "kansaiExpression": "あらくたい",
+    "standardJapanese": "荒々しい",
+    "englishTranslation": "rough, wild, violent, coarse",
+    "exampleSentence": "あらくたい 運転やなあ。",
+    "standardJapaneseSentence": "荒々しい運転だなあ。",
+    "englishSentence": "What rough driving.",
+    "location": "Wakayama"
+  },
+  {
+    "id": 508,
+    "kansaiExpression": "あらくる",
+    "standardJapanese": "整理する",
+    "englishTranslation": "tidy up, put in order, sort out",
+    "exampleSentence": "机の上、あらくっといてや。",
+    "standardJapaneseSentence": "机の上を整理しておいてね。",
+    "englishSentence": "Tidy up the desk, okay?",
+    "location": "Wakayama"
+  },
+  {
+    "id": 509,
+    "kansaiExpression": "いごく",
+    "standardJapanese": "動く",
+    "englishTranslation": "move",
+    "exampleSentence": "じっとしとらんと、いごき !",
+    "standardJapaneseSentence": "じっとしていないで、動きなさい！",
+    "englishSentence": "Don't just stand there, move!",
+    "location": "Wakayama"
+  },
+  {
+    "id": 510,
+    "kansaiExpression": "いっけ",
+    "standardJapanese": "親戚",
+    "englishTranslation": "relative, relation",
+    "exampleSentence": "あそことは いっけ なんや。",
+    "standardJapaneseSentence": "あそことは親戚なんだ。",
+    "englishSentence": "We're relatives with them.",
+    "location": "Wakayama"
+  },
+  {
+    "id": 511,
+    "kansaiExpression": "いもと・おとと",
+    "standardJapanese": "妹・弟",
+    "englishTranslation": "younger sister / younger brother",
+    "exampleSentence": "うちの いもと/おとと や。",
+    "standardJapaneseSentence": "うちの妹/弟だ。",
+    "englishSentence": "This is my younger sister/brother.",
+    "location": "Wakayama"
+  },
+  {
+    "id": 512,
+    "kansaiExpression": "うたとい",
+    "standardJapanese": "面倒",
+    "englishTranslation": "troublesome, bothersome, tiresome",
+    "exampleSentence": "いちいち うたとい こと言わんといて。",
+    "standardJapaneseSentence": "いちいち面倒なことを言わないで。",
+    "englishSentence": "Don't say such troublesome things all the time.",
+    "location": "Wakayama"
+  },
+  {
+    "id": 513,
+    "kansaiExpression": "うろん",
+    "standardJapanese": "うどん",
+    "englishTranslation": "udon noodles",
+    "exampleSentence": "昼飯は うろん にしよか。",
+    "standardJapaneseSentence": "昼食はうどんにしようか。",
+    "englishSentence": "Shall we have udon for lunch?",
+    "location": "Wakayama"
+  },
+  {
+    "id": 514,
+    "kansaiExpression": "おいなーよ",
+    "standardJapanese": "またおいでよね、また来いよ",
+    "englishTranslation": "Come again, okay? (friendly)",
+    "exampleSentence": "楽しかったで、また おいなーよ。",
+    "standardJapaneseSentence": "楽しかったよ、またおいでよね。",
+    "englishSentence": "It was fun, come again, okay?",
+    "location": "Wakayama"
+  },
+  {
+    "id": 515,
+    "kansaiExpression": "おいない",
+    "standardJapanese": "いらっしゃいよ",
+    "englishTranslation": "Welcome!, Come in!",
+    "exampleSentence": "まあまあ、おいない。",
+    "standardJapaneseSentence": "まあまあ、いらっしゃいよ。",
+    "englishSentence": "Well well, welcome!",
+    "location": "Wakayama"
+  },
+  {
+    "id": 516,
+    "kansaiExpression": "おいやん",
+    "standardJapanese": "おじさん",
+    "englishTranslation": "uncle; middle-aged man",
+    "exampleSentence": "近所の おいやん によう遊んでもろた。",
+    "standardJapaneseSentence": "近所のおじさんによく遊んでもらった。",
+    "englishSentence": "The man next door often played with me.",
+    "location": "Wakayama"
+  },
+  {
+    "id": 517,
+    "kansaiExpression": "おたぐらかく",
+    "standardJapanese": "あぐらをかく",
+    "englishTranslation": "sit cross-legged",
+    "exampleSentence": "楽にしぃ、おたぐらかいてええで。",
+    "standardJapaneseSentence": "楽にしなさい、あぐらをかいていいよ。",
+    "englishSentence": "Make yourself comfortable, you can sit cross-legged.",
+    "location": "Wakayama"
+  },
+  {
+    "id": 518,
+    "kansaiExpression": "おとろしい",
+    "standardJapanese": "恐ろしい",
+    "englishTranslation": "frightening, terrible, dreadful",
+    "exampleSentence": "おとろしい 顔しとるなあ。",
+    "standardJapaneseSentence": "恐ろしい顔をしているなあ。",
+    "englishSentence": "What a frightening face.",
+    "location": "Wakayama"
+  },
+  {
+    "id": 519,
+    "kansaiExpression": "お腹おっきい",
+    "standardJapanese": "お腹いっぱい",
+    "englishTranslation": "be full (stomach)",
+    "exampleSentence": "もう食べられへん、お腹おっきい。",
+    "standardJapaneseSentence": "もう食べられない、お腹がいっぱいだ。",
+    "englishSentence": "I can't eat anymore, I'm full.",
+    "location": "Wakayama"
+  },
+  {
+    "id": 520,
+    "kansaiExpression": "おまはん",
+    "standardJapanese": "お前",
+    "englishTranslation": "you (familiar, can be rude)",
+    "exampleSentence": "おまはん、どこ行くんや？",
+    "standardJapaneseSentence": "お前は、どこへ行くんだ？",
+    "englishSentence": "Where are you going?",
+    "location": "Wakayama"
+  },
+  {
+    "id": 521,
+    "kansaiExpression": "おみら",
+    "standardJapanese": "あなたたち",
+    "englishTranslation": "you (plural, familiar/rude)",
+    "exampleSentence": "おみら、はよ せえよ。",
+    "standardJapaneseSentence": "お前たち、早く しろよ。",
+    "englishSentence": "You guys, hurry up.",
+    "location": "Wakayama"
+  },
+  {
+    "id": 522,
+    "kansaiExpression": "おもしゃい",
+    "standardJapanese": "おもしろい",
+    "englishTranslation": "interesting, funny",
+    "exampleSentence": "この話、おもしゃいなあ。",
+    "standardJapaneseSentence": "この話は、おもしろいなあ。",
+    "englishSentence": "This story is interesting.",
+    "location": "Wakayama"
+  },
+  {
+    "id": 523,
+    "kansaiExpression": "かいだるい",
+    "standardJapanese": "だるい",
+    "englishTranslation": "sluggish, listless",
+    "exampleSentence": "体が かいだるい わ。",
+    "standardJapaneseSentence": "体がだるいなあ。",
+    "englishSentence": "My body feels sluggish.",
+    "location": "Wakayama"
+  },
+  {
+    "id": 524,
+    "kansaiExpression": "かたた",
+    "standardJapanese": "カタツムリ",
+    "englishTranslation": "snail",
+    "exampleSentence": "雨上がりにかたたがおった。",
+    "standardJapaneseSentence": "雨上がりにカタツムリがいた。",
+    "englishSentence": "There was a snail after the rain.",
+    "location": "Wakayama"
+  },
+  {
+    "id": 525,
+    "kansaiExpression": "きばる",
+    "standardJapanese": "許す",
+    "englishTranslation": "forgive, permit",
+    "exampleSentence": "今回は きばったる わ。",
+    "standardJapaneseSentence": "今回は許してやるよ。",
+    "englishSentence": "I'll forgive you this time.",
+    "location": "Wakayama"
+  },
+  {
+    "id": 526,
+    "kansaiExpression": "くさびら",
+    "standardJapanese": "きのこ",
+    "englishTranslation": "mushroom",
+    "exampleSentence": "山で くさびら 採ってきた。",
+    "standardJapaneseSentence": "山できのこを採ってきた。",
+    "englishSentence": "I picked mushrooms in the mountains.",
+    "location": "Wakayama"
+  },
+  {
+    "id": 527,
+    "kansaiExpression": "けなりい",
+    "standardJapanese": "うらやましい",
+    "englishTranslation": "envious, jealous",
+    "exampleSentence": "ええなあ、けなりい わ。",
+    "standardJapaneseSentence": "いいなあ、うらやましいよ。",
+    "englishSentence": "That's nice, I'm envious.",
+    "location": "Wakayama"
+  },
+  {
+    "id": 528,
+    "kansaiExpression": "こころわるい",
+    "standardJapanese": "気持ちがよくない、不快",
+    "englishTranslation": "unpleasant, uncomfortable, feel uneasy/bad",
+    "exampleSentence": "あの音、こころわるいなあ。",
+    "standardJapaneseSentence": "あの音は、不快だなあ。",
+    "englishSentence": "That sound is unpleasant.",
+    "location": "Wakayama"
+  },
+  {
+    "id": 529,
+    "kansaiExpression": "こらえてよー",
+    "standardJapanese": "勘弁してよ",
+    "englishTranslation": "Give me a break, Please forgive me",
+    "exampleSentence": "もうええさかい、こらえてよー。",
+    "standardJapaneseSentence": "もういいから、勘弁してよ。",
+    "englishSentence": "That's enough, give me a break.",
+    "location": "Wakayama"
+  },
+  {
+    "id": 530,
+    "kansaiExpression": "さかっちょ",
+    "standardJapanese": "逆さま",
+    "englishTranslation": "upside down, inside out, reverse",
+    "exampleSentence": "シャツ、さかっちょに着とるで。",
+    "standardJapaneseSentence": "シャツを裏返しに着ているよ。",
+    "englishSentence": "You're wearing your shirt inside out.",
+    "location": "Wakayama"
+  },
+  {
+    "id": 531,
+    "kansaiExpression": "さげる",
+    "standardJapanese": "持つ",
+    "englishTranslation": "hold, carry (something hanging down)",
+    "exampleSentence": "この荷物、さげといてくれ。",
+    "standardJapaneseSentence": "この荷物を持っておいてくれ。",
+    "englishSentence": "Hold this luggage for me.",
+    "location": "Wakayama"
+  },
+  {
+    "id": 532,
+    "kansaiExpression": "しゃるく",
+    "standardJapanese": "歩く",
+    "englishTranslation": "walk",
+    "exampleSentence": "駅までしゃるいていこか。",
+    "standardJapaneseSentence": "駅まで歩いていこうか。",
+    "englishSentence": "Shall we walk to the station?",
+    "location": "Wakayama"
+  },
+  {
+    "id": 533,
+    "kansaiExpression": "せーない",
+    "standardJapanese": "つまらない",
+    "englishTranslation": "boring, tedious, worthless",
+    "exampleSentence": "せーない話はもうええわ。",
+    "standardJapaneseSentence": "つまらない話はもういいよ。",
+    "englishSentence": "Enough with the boring talk.",
+    "location": "Wakayama"
+  },
+  {
+    "id": 534,
+    "kansaiExpression": "たる",
+    "standardJapanese": "飽きる、十分だ、足りる",
+    "englishTranslation": "be enough, suffice; get tired of, have enough of",
+    "exampleSentence": "もう たったわ、このゲーム。(get tired of) / これで たるやろ。(be enough)",
+    "standardJapaneseSentence": "もう飽きたよ、このゲーム。/ これで足りるだろう。",
+    "englishSentence": "I've had enough of this game. / This should be enough.",
+    "location": "Wakayama"
+  },
+  {
+    "id": 535,
+    "kansaiExpression": "ちゃっと",
+    "standardJapanese": "ついに",
+    "englishTranslation": "finally, at last",
+    "exampleSentence": "ちゃっと出来上がったわ。",
+    "standardJapaneseSentence": "ついに出来上がったよ。",
+    "englishSentence": "It's finally finished.",
+    "location": "Wakayama"
+  },
+  {
+    "id": 536,
+    "kansaiExpression": "ちょっきし",
+    "standardJapanese": "ちょうど",
+    "englishTranslation": "exactly, just right, precisely",
+    "exampleSentence": "時間、ちょっきし やな。",
+    "standardJapaneseSentence": "時間、ちょうどだね。",
+    "englishSentence": "The time is just right.",
+    "location": "Wakayama"
+  },
+  {
+    "id": 537,
+    "kansaiExpression": "てき",
+    "standardJapanese": "あの人",
+    "englishTranslation": "that person, he, she (familiar/blunt)",
+    "exampleSentence": "てき、誰やったかいな？",
+    "standardJapaneseSentence": "あの人は、誰だったかな？",
+    "englishSentence": "Who was that person again?",
+    "location": "Wakayama"
+  },
+  {
+    "id": 538,
+    "kansaiExpression": "できやん",
+    "standardJapanese": "できない",
+    "englishTranslation": "cannot do, impossible",
+    "exampleSentence": "そんなん、あがには できやん。",
+    "standardJapaneseSentence": "そんなことは、私にはできない。",
+    "englishSentence": "I can't do that.",
+    "location": "Wakayama"
+  },
+  {
+    "id": 539,
+    "kansaiExpression": "でばつく",
+    "standardJapanese": "ものもらい",
+    "englishTranslation": "sty (on the eyelid)",
+    "exampleSentence": "目ぇ、でばついてしもた。",
+    "standardJapaneseSentence": "目にものもらいができてしまった。",
+    "englishSentence": "I got a sty on my eye.",
+    "location": "Wakayama"
+  },
+  {
+    "id": 540,
+    "kansaiExpression": "でんでん",
+    "standardJapanese": "全然",
+    "englishTranslation": "not at all (with negative); totally, completely",
+    "exampleSentence": "でんでん 知らんかったわ。",
+    "standardJapaneseSentence": "全然知らなかったよ。",
+    "englishSentence": "I didn't know at all.",
+    "location": "Wakayama"
+  },
+  {
+    "id": 541,
+    "kansaiExpression": "どうきん",
+    "standardJapanese": "ぞうきん",
+    "englishTranslation": "dust cloth, rag",
+    "exampleSentence": "どうきん で床拭いといて。",
+    "standardJapaneseSentence": "ぞうきんで床を拭いておいて。",
+    "englishSentence": "Wipe the floor with a rag.",
+    "location": "Wakayama"
+  },
+  {
+    "id": 542,
+    "kansaiExpression": "どしゃんばら",
+    "standardJapanese": "草むら",
+    "englishTranslation": "grassy place, thicket, bushes",
+    "exampleSentence": "ボールが どしゃんばら に入ってもうた。",
+    "standardJapaneseSentence": "ボールが草むらに入ってしまった。",
+    "englishSentence": "The ball went into the bushes.",
+    "location": "Wakayama"
+  },
+  {
+    "id": 543,
+    "kansaiExpression": "なっとか",
+    "standardJapanese": "どうにか",
+    "englishTranslation": "somehow, one way or another",
+    "exampleSentence": "なっとか なるやろ。",
+    "standardJapaneseSentence": "どうにかなるだろう。",
+    "englishSentence": "It'll work out somehow.",
+    "location": "Wakayama"
+  },
+  {
+    "id": 544,
+    "kansaiExpression": "にんにこ",
+    "standardJapanese": "握り飯",
+    "englishTranslation": "onigiri, rice ball",
+    "exampleSentence": "お弁当に にんにこ 入れてきた。",
+    "standardJapaneseSentence": "お弁当に握り飯を入れてきた。",
+    "englishSentence": "I put rice balls in my lunch box.",
+    "location": "Wakayama"
+  },
+  {
+    "id": 545,
+    "kansaiExpression": "ねぶたい",
+    "standardJapanese": "眠たい",
+    "englishTranslation": "sleepy",
+    "exampleSentence": "あー、ねぶたい わ。",
+    "standardJapaneseSentence": "あー、眠たいなあ。",
+    "englishSentence": "Ah, I'm sleepy.",
+    "location": "Wakayama"
+  },
+  {
+    "id": 546,
+    "kansaiExpression": "のとろ",
+    "standardJapanese": "とても",
+    "englishTranslation": "very, extremely",
+    "exampleSentence": "のとろ 疲れたわ。",
+    "standardJapaneseSentence": "とても疲れたよ。",
+    "englishSentence": "I'm extremely tired.",
+    "location": "Wakayama"
+  },
+  {
+    "id": 547,
+    "kansaiExpression": "はしりごく",
+    "standardJapanese": "かけっこ",
+    "englishTranslation": "foot race, running race",
+    "exampleSentence": "はしりごく しよら。",
+    "standardJapaneseSentence": "かけっこしようよ。",
+    "englishSentence": "Let's have a race.",
+    "location": "Wakayama"
+  },
+  {
+    "id": 548,
+    "kansaiExpression": "はずむ",
+    "standardJapanese": "ぜいたくする",
+    "englishTranslation": "splurge, be extravagant, treat someone lavishly",
+    "exampleSentence": "今日は給料日やし、はずも か。",
+    "standardJapaneseSentence": "今日は給料日だし、ぜいたくしようか。",
+    "englishSentence": "It's payday today, shall we splurge?",
+    "location": "Wakayama"
+  },
+  {
+    "id": 549,
+    "kansaiExpression": "べっこう",
+    "standardJapanese": "余計なこと",
+    "englishTranslation": "unnecessary thing, meddling, something different/special",
+    "exampleSentence": "べっこう なことせんといて。",
+    "standardJapaneseSentence": "余計なことをしないで。",
+    "englishSentence": "Don't do anything unnecessary / Don't meddle.",
+    "location": "Wakayama"
+  },
+  {
+    "id": 550,
+    "kansaiExpression": "べった",
+    "standardJapanese": "びり",
+    "englishTranslation": "last place, bottom",
+    "exampleSentence": "また べった やったわ。",
+    "standardJapaneseSentence": "またびりだったよ。",
+    "englishSentence": "I was last again.",
+    "location": "Wakayama"
+  },
+  {
+    "id": 551,
+    "kansaiExpression": "ほーかな",
+    "standardJapanese": "すばらしい",
+    "englishTranslation": "wonderful, splendid, magnificent",
+    "exampleSentence": "ほーかな 景色やなあ。",
+    "standardJapaneseSentence": "すばらしい景色だなあ。",
+    "englishSentence": "What a wonderful view.",
+    "location": "Wakayama"
+  },
+  {
+    "id": 552,
+    "kansaiExpression": "ほいたら",
+    "standardJapanese": "そうしたら",
+    "englishTranslation": "Then, In that case, Well then",
+    "exampleSentence": "ほいたら、これでええか。",
+    "standardJapaneseSentence": "そうしたら、これでいいか。",
+    "englishSentence": "Well then, is this okay?",
+    "location": "Wakayama"
+  },
+  {
+    "id": 553,
+    "kansaiExpression": "ぼっきんこ",
+    "standardJapanese": "小銭",
+    "englishTranslation": "small change, coins",
+    "exampleSentence": "ぼっきんこ しか持ってへんわ。",
+    "standardJapaneseSentence": "小銭しか持っていないよ。",
+    "englishSentence": "I only have small change.",
+    "location": "Wakayama"
+  },
+  {
+    "id": 554,
+    "kansaiExpression": "みずせった",
+    "standardJapanese": "ビーチサンダル",
+    "englishTranslation": "beach sandals, flip-flops",
+    "exampleSentence": "夏は みずせった が楽やわ。",
+    "standardJapaneseSentence": "夏はビーチサンダルが楽だね。",
+    "englishSentence": "Flip-flops are comfortable in summer.",
+    "location": "Wakayama"
+  },
+  {
+    "id": 555,
+    "kansaiExpression": "もじける",
+    "standardJapanese": "つぶれる・こわれる",
+    "englishTranslation": "be crushed, break, collapse",
+    "exampleSentence": "箱が もじけて しもうた。",
+    "standardJapaneseSentence": "箱がつぶれてしまった。",
+    "englishSentence": "The box got crushed.",
+    "location": "Wakayama"
+  },
+  {
+    "id": 556,
+    "kansaiExpression": "やつす",
+    "standardJapanese": "おめかしする",
+    "englishTranslation": "dress up, get dolled up",
+    "exampleSentence": "今日は やつして どこ行くん？",
+    "standardJapaneseSentence": "今日はおめかししてどこへ行くの？",
+    "englishSentence": "Where are you going all dressed up today?",
+    "location": "Wakayama"
+  },
+  {
+    "id": 557,
+    "kansaiExpression": "ようさん",
+    "standardJapanese": "たくさん",
+    "englishTranslation": "many, a lot",
+    "exampleSentence": "ようさん の人が来とったで。",
+    "standardJapaneseSentence": "たくさんの人が来ていたよ。",
+    "englishSentence": "A lot of people came.",
+    "location": "Wakayama"
+  },
+  {
+    "id": 558,
+    "kansaiExpression": "わえ",
+    "standardJapanese": "わたし",
+    "englishTranslation": "I, me (male speech)",
+    "exampleSentence": "わえ は知らんで。",
+    "standardJapaneseSentence": "俺は知らないよ。",
+    "englishSentence": "I don't know.",
+    "location": "Wakayama"
+  },
+  {
+    "id": 559,
+    "kansaiExpression": "わせ",
+    "standardJapanese": "私の家",
+    "englishTranslation": "my house, my place",
+    "exampleSentence": "わせ に寄って行けや。",
+    "standardJapaneseSentence": "私の家に寄って行きなさいよ。",
+    "englishSentence": "Stop by my place.",
+    "location": "Wakayama"
+  },
+  {
+    "id": 560,
+    "kansaiExpression": "わちゃわちゃ",
+    "standardJapanese": "めちゃめちゃ",
+    "englishTranslation": "messy, chaotic, jumbled",
+    "exampleSentence": "部屋が わちゃわちゃ やんか。",
+    "standardJapaneseSentence": "部屋がめちゃめちゃじゃないか。",
+    "englishSentence": "The room is a mess!",
+    "location": "Wakayama"
+  },
+  {
+    "id": 561,
+    "kansaiExpression": "わやくちゃ",
+    "standardJapanese": "めちゃくちゃ",
+    "englishTranslation": "messy, ruined, mixed up, unreasonable",
+    "exampleSentence": "言うてることが わやくちゃ や。",
+    "standardJapaneseSentence": "言っていることがめちゃくちゃだ。",
+    "englishSentence": "What you're saying is all mixed up / unreasonable.",
+    "location": "Wakayama"
+  }
+]

@@ -1,0 +1,542 @@
+[
+    {
+        "id": 181,
+        "kansaiExpression": "あおつ",
+        "standardJapanese": "あおぐ",
+        "englishTranslation": "fan (oneself)",
+        "exampleSentence": "暑いさかい、うちわであおついとる。",
+        "standardJapaneseSentence": "暑いから、うちわであおいでいる。",
+        "englishSentence": "It's hot, so I'm fanning myself with a fan.",
+        "location": "Shiga"
+      },
+      {
+        "id": 182,
+        "kansaiExpression": "あっちべら",
+        "standardJapanese": "あちら",
+        "englishTranslation": "that way, over there",
+        "exampleSentence": "トイレはあっちべらやで。",
+        "standardJapaneseSentence": "トイレはあちらだよ。",
+        "englishSentence": "The restroom is over there.",
+        "location": "Shiga"
+      },
+      {
+        "id": 183,
+        "kansaiExpression": "あんない",
+        "standardJapanese": "味がない",
+        "englishTranslation": "tasteless, bland",
+        "exampleSentence": "このスープ、あんないなあ。",
+        "standardJapaneseSentence": "このスープ、味がないなあ。",
+        "englishSentence": "This soup is bland.",
+        "location": "Shiga"
+      },
+      {
+        "id": 184,
+        "kansaiExpression": "いかい",
+        "standardJapanese": "サイズが大きい",
+        "englishTranslation": "large in size",
+        "exampleSentence": "この靴、ちょっといかいわ。",
+        "standardJapaneseSentence": "この靴は、ちょっとサイズが大きいわ。",
+        "englishSentence": "These shoes are a bit too large.",
+        "location": "Shiga"
+      },
+      {
+        "id": 185,
+        "kansaiExpression": "いつも",
+        "standardJapanese": "妹",
+        "englishTranslation": "younger sister",
+        "exampleSentence": "うちのいつもはまだ学生や。",
+        "standardJapaneseSentence": "うちの妹はまだ学生だ。",
+        "englishSentence": "My younger sister is still a student.",
+        "location": "Shiga"
+      },
+      {
+        "id": 186,
+        "kansaiExpression": "いぬ",
+        "standardJapanese": "去る",
+        "englishTranslation": "leave, go away",
+        "exampleSentence": "そろそろいぬわ。",
+        "standardJapaneseSentence": "そろそろ失礼するよ。(Lit: そろそろ去るよ)",
+        "englishSentence": "I'll be leaving soon.",
+        "location": "Shiga"
+      },
+      {
+        "id": 187,
+        "kansaiExpression": "いらう",
+        "standardJapanese": "触る",
+        "englishTranslation": "touch, handle",
+        "exampleSentence": "展示品にいろうたらあかんで。",
+        "standardJapaneseSentence": "展示品に触ったらだめだよ。",
+        "englishSentence": "You mustn't touch the exhibits.",
+        "location": "Shiga"
+      },
+      {
+        "id": 188,
+        "kansaiExpression": "ういなー",
+        "standardJapanese": "悪いね",
+        "englishTranslation": "sorry (casual), my bad",
+        "exampleSentence": "遅れてごめん、ういなー。",
+        "standardJapaneseSentence": "遅れてごめん、悪いね。",
+        "englishSentence": "Sorry I'm late, my bad.",
+        "location": "Shiga"
+      },
+      {
+        "id": 189,
+        "kansaiExpression": "うみ",
+        "standardJapanese": "琵琶湖",
+        "englishTranslation": "Lake Biwa (lit. 'sea'/'lake')",
+        "exampleSentence": "夏はうみで泳ぐのが一番や。",
+        "standardJapaneseSentence": "夏は琵琶湖で泳ぐのが一番だ。",
+        "englishSentence": "Swimming in Lake Biwa is the best in summer.",
+        "location": "Shiga"
+      },
+      {
+        "id": 190,
+        "kansaiExpression": "ええもん",
+        "standardJapanese": "良いもの",
+        "englishTranslation": "good thing(s)",
+        "exampleSentence": "ええもんもろたで。",
+        "standardJapaneseSentence": "良いものをもらったよ。",
+        "englishSentence": "I received something good.",
+        "location": "Shiga"
+      },
+      {
+        "id": 191,
+        "kansaiExpression": "えらい",
+        "standardJapanese": "しんどい",
+        "englishTranslation": "tired, tough, hard",
+        "exampleSentence": "今日の仕事はえらかったわ。",
+        "standardJapaneseSentence": "今日の仕事はしんどかったよ。",
+        "englishSentence": "Today's work was tough.",
+        "location": "Shiga"
+      },
+      {
+        "id": 192,
+        "kansaiExpression": "おーさわな",
+        "standardJapanese": "大げさな",
+        "englishTranslation": "exaggerated, grandiose, overblown",
+        "exampleSentence": "おーさわなこと言うなや。",
+        "standardJapaneseSentence": "大げさなことを言うなよ。",
+        "englishSentence": "Don't exaggerate.",
+        "location": "Shiga"
+      },
+      {
+        "id": 193,
+        "kansaiExpression": "おが",
+        "standardJapanese": "カメムシ",
+        "englishTranslation": "stink bug",
+        "exampleSentence": "うわ、おががおる！臭い！",
+        "standardJapaneseSentence": "うわ、カメムシがいる！臭い！",
+        "englishSentence": "Ugh, there's a stink bug! It stinks!",
+        "location": "Shiga"
+      },
+      {
+        "id": 194,
+        "kansaiExpression": "おしまいやす",
+        "standardJapanese": "こんばんは",
+        "englishTranslation": "Good evening (polite)",
+        "exampleSentence": "おしまいやす、今日もお疲れさん。",
+        "standardJapaneseSentence": "こんばんは、今日もお疲れさま。",
+        "englishSentence": "Good evening, thanks for your hard work today.",
+        "location": "Shiga"
+      },
+      {
+        "id": 195,
+        "kansaiExpression": "おせんどさん",
+        "standardJapanese": "おつかれさまでした",
+        "englishTranslation": "Thank you for your hard work, Well done",
+        "exampleSentence": "今日はおせんどさんでした。",
+        "standardJapaneseSentence": "今日はお疲れ様でした。",
+        "englishSentence": "Thank you for your hard work today.",
+        "location": "Shiga"
+      },
+      {
+        "id": 196,
+        "kansaiExpression": "おちょばい",
+        "standardJapanese": "ご機嫌取り",
+        "englishTranslation": "flattery, sucking up, brown-nosing",
+        "exampleSentence": "上司におちょばいばっかり言うてる。",
+        "standardJapaneseSentence": "上司にご機嫌取りばかり言っている。",
+        "englishSentence": "He's always just sucking up to the boss.",
+        "location": "Shiga"
+      },
+      {
+        "id": 197,
+        "kansaiExpression": "おっさん",
+        "standardJapanese": "お坊さん",
+        "englishTranslation": "Buddhist priest",
+        "exampleSentence": "法事でおっさんに来てもろた。",
+        "standardJapaneseSentence": "法事でお坊さんに来てもらった。",
+        "englishSentence": "We had the priest come for the memorial service.",
+        "location": "Shiga"
+      },
+      {
+        "id": 198,
+        "kansaiExpression": "がいっと",
+        "standardJapanese": "力いっぱい",
+        "englishTranslation": "with all one's might, forcefully",
+        "exampleSentence": "ドアをがいっと引っぱった。",
+        "standardJapaneseSentence": "ドアを力いっぱい引っぱった。",
+        "englishSentence": "I pulled the door with all my might.",
+        "location": "Shiga"
+      },
+      {
+        "id": 199,
+        "kansaiExpression": "かてる",
+        "standardJapanese": "凍り付く",
+        "englishTranslation": "freeze, be frozen solid",
+        "exampleSentence": "寒さで水道がかててもた。",
+        "standardJapaneseSentence": "寒さで水道が凍り付いてしまった。",
+        "englishSentence": "The water pipes froze solid from the cold.",
+        "location": "Shiga"
+      },
+      {
+        "id": 200,
+        "kansaiExpression": "かなん",
+        "standardJapanese": "嫌だ",
+        "englishTranslation": "dislike, can't stand, annoying, unbearable",
+        "exampleSentence": "雨の日の運転はかなんなあ。",
+        "standardJapaneseSentence": "雨の日の運転は嫌だなあ。",
+        "englishSentence": "Driving on rainy days is annoying.",
+        "location": "Shiga"
+      },
+      {
+        "id": 201,
+        "kansaiExpression": "かにここ",
+        "standardJapanese": "やっと",
+        "englishTranslation": "finally, at last, barely",
+        "exampleSentence": "かにここ宿題が終わったわ。",
+        "standardJapaneseSentence": "やっと宿題が終わったよ。",
+        "englishSentence": "I finally finished my homework.",
+        "location": "Shiga"
+      },
+      {
+        "id": 202,
+        "kansaiExpression": "かんぽ",
+        "standardJapanese": "漬物",
+        "englishTranslation": "pickles (tsukemono)",
+        "exampleSentence": "ご飯にかんぽは欠かせへん。",
+        "standardJapaneseSentence": "ご飯に漬物は欠かせない。",
+        "englishSentence": "Pickles are essential with rice.",
+        "location": "Shiga"
+      },
+      {
+        "id": 203,
+        "kansaiExpression": "きゃんた",
+        "standardJapanese": "来られる",
+        "englishTranslation": "can come (potential/honorific)",
+        "exampleSentence": "明日、きゃんたか？",
+        "standardJapaneseSentence": "明日、来られますか？ / 来れるかい？",
+        "englishSentence": "Can you come tomorrow?",
+        "location": "Shiga"
+      },
+      {
+        "id": 204,
+        "kansaiExpression": "きりょーよし",
+        "standardJapanese": "美人",
+        "englishTranslation": "beautiful woman, good-looking woman",
+        "exampleSentence": "あそこの娘さん、きりょーよしやなあ。",
+        "standardJapaneseSentence": "あそこの娘さんは、美人だなあ。",
+        "englishSentence": "That girl over there is beautiful.",
+        "location": "Shiga"
+      },
+      {
+        "id": 205,
+        "kansaiExpression": "きんまい",
+        "standardJapanese": "美しい",
+        "englishTranslation": "beautiful, pretty",
+        "exampleSentence": "きんまい花が咲いとる。",
+        "standardJapaneseSentence": "美しい花が咲いている。",
+        "englishSentence": "Beautiful flowers are blooming.",
+        "location": "Shiga"
+      },
+      {
+        "id": 206,
+        "kansaiExpression": "ごもく",
+        "standardJapanese": "ゴミ",
+        "englishTranslation": "garbage, trash",
+        "exampleSentence": "ごもく出しといてや。",
+        "standardJapaneseSentence": "ゴミを出しておいてね。",
+        "englishSentence": "Take out the trash, okay?",
+        "location": "Shiga"
+      },
+      {
+        "id": 207,
+        "kansaiExpression": "しまく",
+        "standardJapanese": "雨がひどく降る",
+        "englishTranslation": "rain heavily, pour",
+        "exampleSentence": "外、しまくっとるわ。",
+        "standardJapaneseSentence": "外は、雨がひどく降っているよ。",
+        "englishSentence": "It's pouring outside.",
+        "location": "Shiga"
+      },
+      {
+        "id": 208,
+        "kansaiExpression": "すこい",
+        "standardJapanese": "ずるい",
+        "englishTranslation": "sly, unfair, cunning",
+        "exampleSentence": "それはすこいわ！",
+        "standardJapaneseSentence": "それはずるいよ！",
+        "englishSentence": "That's unfair!",
+        "location": "Shiga"
+      },
+      {
+        "id": 209,
+        "kansaiExpression": "せつろしい",
+        "standardJapanese": "煩わしい",
+        "englishTranslation": "troublesome, annoying, complicated, bothersome",
+        "exampleSentence": "手続きがせつろしいなあ。",
+        "standardJapaneseSentence": "手続きが煩わしいなあ。",
+        "englishSentence": "The procedures are troublesome.",
+        "location": "Shiga"
+      },
+      {
+        "id": 210,
+        "kansaiExpression": "せんどする",
+        "standardJapanese": "とても疲れる",
+        "englishTranslation": "get very tired, be exhausted",
+        "exampleSentence": "山登りでせんどしたわ。",
+        "standardJapaneseSentence": "山登りでとても疲れたよ。",
+        "englishSentence": "I got very tired from climbing the mountain.",
+        "location": "Shiga"
+      },
+      {
+        "id": 211,
+        "kansaiExpression": "だしかいな",
+        "standardJapanese": "いいじゃないですか",
+        "englishTranslation": "Isn't it good?, That's good, isn't it?",
+        "exampleSentence": "これ、ええやろ？ だしかいな！",
+        "standardJapaneseSentence": "これ、いいだろう？ いいじゃないですか！",
+        "englishSentence": "This is good, right? Isn't it great!",
+        "location": "Shiga"
+      },
+      {
+        "id": 212,
+        "kansaiExpression": "だんない",
+        "standardJapanese": "かまわない、さしつかえない、心配ない",
+        "englishTranslation": "it doesn't matter, it's okay, no problem, don't worry",
+        "exampleSentence": "ちょっとくらい汚れてもだんないで。",
+        "standardJapaneseSentence": "ちょっとくらい汚れてもかまわないよ。",
+        "englishSentence": "It's okay if it gets a little dirty.",
+        "location": "Shiga"
+      },
+      {
+        "id": 213,
+        "kansaiExpression": "だんないだんない",
+        "standardJapanese": "かまわない、差し支えないよ",
+        "englishTranslation": "It's okay, it's okay; No problem at all; Don't worry about it",
+        "exampleSentence": "心配せんとき、だんないだんない。",
+        "standardJapaneseSentence": "心配しないで、大丈夫大丈夫。",
+        "englishSentence": "Don't worry, it's okay, it's okay.",
+        "location": "Shiga"
+      },
+      {
+        "id": 214,
+        "kansaiExpression": "ちべたい、ちびたい、ちびてぇ",
+        "standardJapanese": "冷たい",
+        "englishTranslation": "cold (to touch)",
+        "exampleSentence": "川の水、ちべたいわー。",
+        "standardJapaneseSentence": "川の水が冷たいなあ。",
+        "englishSentence": "The river water is cold.",
+        "location": "Shiga"
+      },
+      {
+        "id": 215,
+        "kansaiExpression": "ちゅんちゅん",
+        "standardJapanese": "湯が沸騰した状態",
+        "englishTranslation": "boiling (water), bubbling vigorously",
+        "exampleSentence": "お湯がちゅんちゅんに沸いとる。",
+        "standardJapaneseSentence": "お湯がぐらぐら沸騰している。",
+        "englishSentence": "The water is boiling vigorously.",
+        "location": "Shiga"
+      },
+      {
+        "id": 216,
+        "kansaiExpression": "ちょかる",
+        "standardJapanese": "調子に乗る",
+        "englishTranslation": "get carried away, act silly/jokingly, fool around",
+        "exampleSentence": "あんまりちょかんなや。",
+        "standardJapaneseSentence": "あまりふざけるなよ。(Lit: あまり調子に乗るなよ)",
+        "englishSentence": "Don't fool around too much.",
+        "location": "Shiga"
+      },
+      {
+        "id": 217,
+        "kansaiExpression": "てんこもり",
+        "standardJapanese": "山盛り",
+        "englishTranslation": "heaping portion, piled high",
+        "exampleSentence": "ご飯てんこもりにしてくれた。",
+        "standardJapaneseSentence": "ご飯を山盛りにしてくれた。",
+        "englishSentence": "They gave me a heaping portion of rice.",
+        "location": "Shiga"
+      },
+      {
+        "id": 218,
+        "kansaiExpression": "どぼどぼ",
+        "standardJapanese": "びしょびしょ",
+        "englishTranslation": "soaking wet, drenched",
+        "exampleSentence": "雨でどぼどぼになってもた。",
+        "standardJapaneseSentence": "雨でびしょびしょになってしまった。",
+        "englishSentence": "I got soaking wet in the rain.",
+        "location": "Shiga"
+      },
+      {
+        "id": 219,
+        "kansaiExpression": "なぶる",
+        "standardJapanese": "手で触る",
+        "englishTranslation": "touch with hands, handle, play with, fiddle with",
+        "exampleSentence": "赤ちゃんのほっぺ、よう なぶってしまうわ。",
+        "standardJapaneseSentence": "赤ちゃんのほっぺを、よく手で触ってしまうよ。",
+        "englishSentence": "I often end up touching the baby's cheeks.",
+        "location": "Shiga"
+      },
+      {
+        "id": 220,
+        "kansaiExpression": "なまずけない",
+        "standardJapanese": "だらしない",
+        "englishTranslation": "sloppy, untidy, loose, undisciplined",
+        "exampleSentence": "なまずけない格好すな。",
+        "standardJapaneseSentence": "だらしない格好をするな。",
+        "englishSentence": "Don't dress so sloppily.",
+        "location": "Shiga"
+      },
+      {
+        "id": 221,
+        "kansaiExpression": "なんぞ",
+        "standardJapanese": "お菓子",
+        "englishTranslation": "snacks, sweets",
+        "exampleSentence": "なんぞあるか？ちょっと食べたいわ。",
+        "standardJapaneseSentence": "お菓子はあるかい？ちょっと食べたいな。",
+        "englishSentence": "Are there any snacks? I want to eat a little.",
+        "location": "Shiga"
+      },
+      {
+        "id": 222,
+        "kansaiExpression": "ねき",
+        "standardJapanese": "側、近く",
+        "englishTranslation": "near, beside, close by",
+        "exampleSentence": "ポストのねきで待ってるわ。",
+        "standardJapaneseSentence": "ポストの側で待っているよ。",
+        "englishSentence": "I'll be waiting near the postbox.",
+        "location": "Shiga"
+      },
+      {
+        "id": 223,
+        "kansaiExpression": "はしかい",
+        "standardJapanese": "すばしこくてずる賢い",
+        "englishTranslation": "quick and sly, nimble and cunning",
+        "exampleSentence": "あいつははしかいやつや。",
+        "standardJapaneseSentence": "あいつはすばしこくてずる賢いやつだ。",
+        "englishSentence": "He's a quick and sly fellow.",
+        "location": "Shiga"
+      },
+      {
+        "id": 224,
+        "kansaiExpression": "ほえない",
+        "standardJapanese": "あっけない",
+        "englishTranslation": "unsatisfying, too brief, anticlimactic",
+        "exampleSentence": "勝負がほえなく終わってしもた。",
+        "standardJapaneseSentence": "勝負があっけなく終わってしまった。",
+        "englishSentence": "The match ended all too quickly/anticlimactically.",
+        "location": "Shiga"
+      },
+      {
+        "id": 225,
+        "kansaiExpression": "ほかす",
+        "standardJapanese": "捨てる",
+        "englishTranslation": "throw away, discard",
+        "exampleSentence": "ゴミほかしてきて。",
+        "standardJapaneseSentence": "ゴミを捨ててきて。",
+        "englishSentence": "Go throw out the garbage.",
+        "location": "Shiga"
+      },
+      {
+        "id": 226,
+        "kansaiExpression": "ほっこり",
+        "standardJapanese": "うんざり、疲れる、くたびれる",
+        "englishTranslation": "get tired, become weary, fed up",
+        "exampleSentence": "同じ話ばっかりでほっこりするわ。",
+        "standardJapaneseSentence": "同じ話ばかりでうんざりするよ。",
+        "englishSentence": "I'm fed up with hearing the same story over and over.",
+        "location": "Shiga"
+      },
+      {
+        "id": 227,
+        "kansaiExpression": "みざら",
+        "standardJapanese": "すのこ",
+        "englishTranslation": "duckboard, slatted wooden board",
+        "exampleSentence": "風呂場のみざら、洗っといて。",
+        "standardJapaneseSentence": "風呂場のすのこを洗っておいて。",
+        "englishSentence": "Wash the duckboard in the bathroom.",
+        "location": "Shiga"
+      },
+      {
+        "id": 228,
+        "kansaiExpression": "めいぼ",
+        "standardJapanese": "ものもらい",
+        "englishTranslation": "sty (on the eyelid)",
+        "exampleSentence": "目にめいぼができて痛い。",
+        "standardJapaneseSentence": "目にものもらいができて痛い。",
+        "englishSentence": "I got a sty on my eye and it hurts.",
+        "location": "Shiga"
+      },
+      {
+        "id": 229,
+        "kansaiExpression": "ももける",
+        "standardJapanese": "セーターなどが毛羽立つ",
+        "englishTranslation": "become fluffy/fuzzy, pill (of fabric)",
+        "exampleSentence": "このセーター、ももけてきたなあ。",
+        "standardJapaneseSentence": "このセーター、毛羽立ってきたなあ。",
+        "englishSentence": "This sweater is starting to pill.",
+        "location": "Shiga"
+      },
+      {
+        "id": 230,
+        "kansaiExpression": "もんでくる",
+        "standardJapanese": "帰ってくる",
+        "englishTranslation": "come back, return home",
+        "exampleSentence": "ちょっと出かけて、すぐもんでくるわ。",
+        "standardJapaneseSentence": "ちょっと出かけて、すぐ帰ってくるよ。",
+        "englishSentence": "I'm stepping out for a bit, I'll be right back.",
+        "location": "Shiga"
+      },
+      {
+        "id": 231,
+        "kansaiExpression": "やっとかめー",
+        "standardJapanese": "お久しぶりー",
+        "englishTranslation": "Long time no see!",
+        "exampleSentence": "やっとかめー！元気しとったか？",
+        "standardJapaneseSentence": "お久しぶり！元気にしてたか？",
+        "englishSentence": "Long time no see! How have you been?",
+        "location": "Shiga"
+      },
+      {
+        "id": 232,
+        "kansaiExpression": "よけまい",
+        "standardJapanese": "余計に",
+        "englishTranslation": "unnecessarily, excessively, all the more",
+        "exampleSentence": "心配したらよけまい気にするやろ。",
+        "standardJapaneseSentence": "心配したら余計に気にするだろう。",
+        "englishSentence": "If you worry, they'll just worry all the more.",
+        "location": "Shiga"
+      },
+      {
+        "id": 233,
+        "kansaiExpression": "よこんちょ",
+        "standardJapanese": "横",
+        "englishTranslation": "side, beside",
+        "exampleSentence": "その箱、よこんちょに置いといて。",
+        "standardJapaneseSentence": "その箱を横に置いておいて。",
+        "englishSentence": "Put that box over to the side.",
+        "location": "Shiga"
+      },
+      {
+        "id": 234,
+        "kansaiExpression": "よぞい",
+        "standardJapanese": "うるさい、不快だ",
+        "englishTranslation": "noisy, annoying, unpleasant, bothersome",
+        "exampleSentence": "工事の音がよぞいわ。",
+        "standardJapaneseSentence": "工事の音がうるさいなあ。",
+        "englishSentence": "The construction noise is annoying.",
+        "location": "Shiga"
+      }
+]

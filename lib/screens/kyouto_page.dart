@@ -1,12 +1,10 @@
-// lib/screens/hyougo_page.dart
+// lib/screens/kyoto_page.dart
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart' show rootBundle; // For loading JSON asset
-import 'dart:convert'; // For decoding JSON
+import 'package:flutter/services.dart' show rootBundle;
+import 'dart:convert';
+import '../models/kansai_word.dart'; // Adjust path if your model is elsewhere
 
-// Assuming your model is here:
-import '../models/kansai_word.dart'; // Adjust path if needed
-
-// --- Theme Colors (Inspired by Kansai-Ben Quest image) ---
+// --- Theme Colors (Define centrally or repeat here) ---
 const Color kPrimaryBackgroundColor = Color(0xFFF2D7A9);
 const Color kPrimaryTextColor = Color(0xFF2A1201);
 const Color kAccentColorOrange = Color(0xFFE55934);
@@ -14,50 +12,47 @@ const Color kAccentColorGold = Color(0xFFF5B700);
 const Color kCardBackgroundColor = Color(0xFFFAEBCD);
 const Color kSubtleTextColor = Color(0xFF6E5B44);
 // --- End Theme Colors ---
-class HyougoPage extends StatefulWidget {
-  const HyougoPage({super.key});
+
+class KyotoPage extends StatefulWidget {
+  const KyotoPage({super.key});
 
   @override
-  State<HyougoPage> createState() => _HyougoPageState();
+  State<KyotoPage> createState() => _KyotoPageState();
 }
 
-class _HyougoPageState extends State<HyougoPage> {
-  late Future<List<KansaiWord>> _hyogoWordsFuture;
+class _KyotoPageState extends State<KyotoPage> {
+  late Future<List<KansaiWord>> _kyotoWordsFuture;
 
   @override
   void initState() {
     super.initState();
-    // ---> CHANGE: Call the simplified loading function <---
-    _hyogoWordsFuture = _loadHyogoWords();
+    _kyotoWordsFuture = _loadKyotoWords();
   }
 
-  // ---> CHANGE: Simplified loading function for Hyougo <---
-  Future<List<KansaiWord>> _loadHyogoWords() async {
+  // Function to load, decode, and map Kyoto words JSON data
+  Future<List<KansaiWord>> _loadKyotoWords() async {
     try {
-      // ---> CHANGE: Load the specific Hyougo file <---
+      // Load the specific JSON string for Kyoto from assets
       final String jsonString =
-          await rootBundle.loadString('assets/data/hyougo_words.json'); // Load specific file
+          await rootBundle.loadString('assets/data/kyoto_words.json');
 
       // Decode the JSON string into a List<dynamic>
       final List<dynamic> jsonList = json.decode(jsonString);
 
-      // ---> CHANGE: Directly map, NO filtering needed anymore <---
-      final List<KansaiWord> hyogoWords =
+      // Map the dynamic list to a List<KansaiWord>
+      final List<KansaiWord> kyotoWords =
           jsonList.map((jsonItem) => KansaiWord.fromJson(jsonItem)).toList();
 
-      return hyogoWords; // Return the already filtered list
+      return kyotoWords;
     } catch (e) {
-      debugPrint('Error loading or parsing hyougo_words.json: $e');
-      return Future.error('Failed to load Hyougo words.');
+      // Handle errors (e.g., file not found, JSON parsing error)
+      debugPrint('Error loading or parsing kyoto_words.json: $e');
+      // Return an error to be caught by FutureBuilder
+      return Future.error('Failed to load Kyoto words.');
     }
   }
 
-  // ... (_showWordDetails, _buildDetailRow, and build methods remain the same) ...
-  // The FutureBuilder will now use the future returned by _loadHyogoWords
-
-  // --- Make sure the rest of the file (bottom sheet, build method with FutureBuilder, DataTable) ---
-  // --- remains the same as the previous version.                                             ---
-   // Function to show the details in a bottom sheet
+  // Function to show the details in a bottom sheet
   void _showWordDetails(BuildContext context, KansaiWord word) {
     showModalBottomSheet(
       context: context,
@@ -136,7 +131,7 @@ class _HyougoPageState extends State<HyougoPage> {
       backgroundColor: kPrimaryBackgroundColor, // Set background color
       appBar: AppBar(
         title: const Text(
-          'Hyōgo - 兵庫県',
+          'Kyōto - 京都府', // Updated title for Kyoto
           style: TextStyle(
             color: kPrimaryTextColor, // Dark text on AppBar
             fontWeight: FontWeight.bold,
@@ -148,7 +143,7 @@ class _HyougoPageState extends State<HyougoPage> {
         iconTheme: const IconThemeData(color: kPrimaryTextColor), // Back button color
       ),
       body: FutureBuilder<List<KansaiWord>>(
-        future: _hyogoWordsFuture, // This now correctly points to _loadHyogoWords future
+        future: _kyotoWordsFuture, // Use the future for Kyoto words
         builder: (context, snapshot) {
           // ----- Handle Loading State -----
           if (snapshot.connectionState == ConnectionState.waiting) {
@@ -163,8 +158,8 @@ class _HyougoPageState extends State<HyougoPage> {
                 padding: const EdgeInsets.all(20.0),
                 child: Text(
                   snapshot.hasError
-                      ? 'Error loading words.\nPlease check your connection or the data file (hyougo_words.json).' // Updated error message
-                      : 'No words found for Hyougo in the dictionary.',
+                      ? 'Error loading words.\nPlease check your connection or the data file (kyoto_words.json).' // Updated error message
+                      : 'No words found for Kyōto in the dictionary.', // Updated message
                   textAlign: TextAlign.center,
                   style: const TextStyle(color: kPrimaryTextColor, fontSize: 16, height: 1.5),
                 ),
@@ -173,7 +168,7 @@ class _HyougoPageState extends State<HyougoPage> {
           }
 
           // ----- Handle Data Loaded State -----
-          final hyogoWords = snapshot.data!;
+          final kyotoWords = snapshot.data!; // Assign data to specific variable
 
           // Use SingleChildScrollView for vertical scrolling if table is long
           // Use SingleChildScrollView with horizontal direction for horizontal scrolling
@@ -183,25 +178,24 @@ class _HyougoPageState extends State<HyougoPage> {
               child: Padding(
                 padding: const EdgeInsets.symmetric(horizontal: 8.0, vertical: 12.0), // Padding around the table
                 child: DataTable(
-                  showCheckboxColumn: false,
+                  showCheckboxColumn: false, // Hide checkboxes
                   headingRowColor: MaterialStateColor.resolveWith( // Style header row
-                      (states) => kAccentColorGold.withOpacity(0.3)), // Slightly more opaque header
-                  dataRowColor: MaterialStateColor.resolveWith( // Alternate row colors slightly
+                      (states) => kAccentColorGold.withOpacity(0.3)),
+                  dataRowColor: MaterialStateColor.resolveWith( // Style data rows
                     (states) {
-                      return kCardBackgroundColor.withOpacity(0.6); // Slightly more opaque rows
+                      return kCardBackgroundColor.withOpacity(0.6);
                     }),
                    dataRowMinHeight: 48.0,
                    dataRowMaxHeight: 60.0,
                    headingRowHeight: 56.0,
-                  columnSpacing: 25.0, // Increased spacing between columns
-                  columns: const <DataColumn>[
+                  columnSpacing: 25.0, // Spacing between columns
+                  columns: const <DataColumn>[ // Define table columns (Headers)
                     DataColumn(
-                      label: Expanded( // Use Expanded to allow text wrapping if needed
+                      label: Expanded(
                         child: Text(
                           'Kansai-ben',
-                          style: TextStyle(
-                              fontWeight: FontWeight.bold, color: kPrimaryTextColor, fontSize: 16), // Slightly larger header font
-                           overflow: TextOverflow.ellipsis, // Handle overflow
+                          style: TextStyle(fontWeight: FontWeight.bold, color: kPrimaryTextColor, fontSize: 16),
+                           overflow: TextOverflow.ellipsis,
                         ),
                       ),
                     ),
@@ -209,8 +203,7 @@ class _HyougoPageState extends State<HyougoPage> {
                        label: Expanded(
                         child: Text(
                           'Standard',
-                          style: TextStyle(
-                              fontWeight: FontWeight.bold, color: kPrimaryTextColor, fontSize: 16),
+                          style: TextStyle(fontWeight: FontWeight.bold, color: kPrimaryTextColor, fontSize: 16),
                            overflow: TextOverflow.ellipsis,
                         ),
                       ),
@@ -219,29 +212,26 @@ class _HyougoPageState extends State<HyougoPage> {
                       label: Expanded(
                         child: Text(
                           'English',
-                          style: TextStyle(
-                              fontWeight: FontWeight.bold, color: kPrimaryTextColor, fontSize: 16),
+                          style: TextStyle(fontWeight: FontWeight.bold, color: kPrimaryTextColor, fontSize: 16),
                            overflow: TextOverflow.ellipsis,
                         ),
                       ),
                     ),
                   ],
-                  rows: hyogoWords.map((word) {
+                  rows: kyotoWords.map((word) { // Map the list of words to DataRows
                     // Build each row
                     return DataRow(
+                      // Make the row tappable to show details
                       onSelectChanged: (bool? selected) {
-                          _showWordDetails(context, word);
+                          _showWordDetails(context, word); // Call the detail function on tap
                       },
-                      cells: <DataCell>[
-                        DataCell(Text(word.kansaiExpression,
-                            style: const TextStyle(color: kPrimaryTextColor, fontSize: 15))), // Slightly larger cell font
-                        DataCell(Text(word.standardJapanese,
-                            style: const TextStyle(color: kPrimaryTextColor, fontSize: 15))),
-                        DataCell(Text(word.englishTranslation,
-                            style: const TextStyle(color: kPrimaryTextColor, fontSize: 15))),
+                      cells: <DataCell>[ // Define cells for the row
+                        DataCell(Text(word.kansaiExpression, style: const TextStyle(color: kPrimaryTextColor, fontSize: 15))),
+                        DataCell(Text(word.standardJapanese, style: const TextStyle(color: kPrimaryTextColor, fontSize: 15))),
+                        DataCell(Text(word.englishTranslation, style: const TextStyle(color: kPrimaryTextColor, fontSize: 15))),
                       ],
                     );
-                  }).toList(),
+                  }).toList(), // Convert the mapped iterable to a List
                 ),
               ),
             ),
