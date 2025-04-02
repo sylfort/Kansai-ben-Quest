@@ -1,0 +1,882 @@
+[
+    {
+        "id": 297,
+        "kansaiExpression": "あいそ",
+        "standardJapanese": "愛想",
+        "englishTranslation": "friendliness, sociability, hospitality (can also mean bill/check 'おあいそ')",
+        "exampleSentence": "あの店員さん、あいそええなあ。",
+        "standardJapaneseSentence": "あの店員さん、愛想がいいなあ。",
+        "englishSentence": "That shop assistant is very friendly.",
+        "location": "Osaka"
+      },
+      {
+        "id": 298,
+        "kansaiExpression": "アカン",
+        "standardJapanese": "ダメ、良くない",
+        "englishTranslation": "No good, Bad, Must not",
+        "exampleSentence": "ここでタバコ吸うたらアカンで。",
+        "standardJapaneseSentence": "ここでタバコを吸ったらだめだよ。",
+        "englishSentence": "You mustn't smoke here.",
+        "location": "Osaka"
+      },
+      {
+        "id": 299,
+        "kansaiExpression": "あかんたれ",
+        "standardJapanese": "弱虫",
+        "englishTranslation": "coward, weakling, good-for-nothing",
+        "exampleSentence": "こんくらいのことで泣くな、あかんたれ！",
+        "standardJapaneseSentence": "これくらいのことで泣くな、弱虫！",
+        "englishSentence": "Don't cry over something like this, you weakling!",
+        "location": "Osaka"
+      },
+      {
+        "id": 300,
+        "kansaiExpression": "あらしょ",
+        "standardJapanese": "あるじゃないか",
+        "englishTranslation": "There it is!, You have it!",
+        "exampleSentence": "探し物、ここにあらしょ。",
+        "standardJapaneseSentence": "探し物、ここにあるじゃないか。",
+        "englishSentence": "What you were looking for, here it is!",
+        "location": "Osaka"
+      },
+      {
+        "id": 301,
+        "kansaiExpression": "アリンコ",
+        "standardJapanese": "あり",
+        "englishTranslation": "ant",
+        "exampleSentence": "アリンコが行列作っとるわ。",
+        "standardJapaneseSentence": "アリが行列を作っているよ。",
+        "englishSentence": "The ants are making a line.",
+        "location": "Osaka"
+      },
+      {
+        "id": 302,
+        "kansaiExpression": "あんじょー",
+        "standardJapanese": "上手に",
+        "englishTranslation": "skillfully, well, properly",
+        "exampleSentence": "あんじょー やってや。",
+        "standardJapaneseSentence": "うまく やってね。",
+        "englishSentence": "Do it well / properly, okay?",
+        "location": "Osaka"
+      },
+      {
+        "id": 303,
+        "kansaiExpression": "行きしな",
+        "standardJapanese": "行く途中",
+        "englishTranslation": "on the way (going)",
+        "exampleSentence": "行きしなにコンビニ寄ってくわ。",
+        "standardJapaneseSentence": "行く途中でコンビニに寄っていくよ。",
+        "englishSentence": "I'll stop by the convenience store on the way.",
+        "location": "Osaka"
+      },
+      {
+        "id": 304,
+        "kansaiExpression": "いちぶる、いちびる",
+        "standardJapanese": "悪ふざけする",
+        "englishTranslation": "fool around, get carried away, act cocky",
+        "exampleSentence": "あんまり いちびってんと、はよしぃや。",
+        "standardJapaneseSentence": "あまりふざけないで、早くしなさいよ。",
+        "englishSentence": "Stop fooling around and hurry up.",
+        "location": "Osaka"
+      },
+      {
+        "id": 305,
+        "kansaiExpression": "いてこます",
+        "standardJapanese": "やっつける",
+        "englishTranslation": "beat up, thrash, defeat thoroughly (aggressive)",
+        "exampleSentence": "あんなやつ、いっぺん いてこましたろか。",
+        "standardJapaneseSentence": "あんなやつは、一度やっつけてやろうか。",
+        "englishSentence": "Shall I give that guy a good thrashing?",
+        "location": "Osaka"
+      },
+      {
+        "id": 306,
+        "kansaiExpression": "いらう",
+        "standardJapanese": "さわる、からかう",
+        "englishTranslation": "touch, meddle with; tease",
+        "exampleSentence": "人のもん、勝手に いらうな。(touch) / あいつのこと いらうん、おもろいわ。(tease)",
+        "standardJapaneseSentence": "人の物を勝手に触るな。/ あいつをからかうのは、面白いよ。",
+        "englishSentence": "Don't touch other people's things without permission. / It's fun to tease him.",
+        "location": "Osaka"
+      },
+      {
+        "id": 307,
+        "kansaiExpression": "いらち",
+        "standardJapanese": "落ち着きのない人、せっかち、短気者",
+        "englishTranslation": "impatient person, restless person, hasty person, short-tempered person",
+        "exampleSentence": "大阪人は いらち やてよう言われるわ。",
+        "standardJapaneseSentence": "大阪人はせっかちだとよく言われるよ。",
+        "englishSentence": "People often say that Osaka people are impatient.",
+        "location": "Osaka"
+      },
+      {
+        "id": 308,
+        "kansaiExpression": "うそたれ",
+        "standardJapanese": "嘘つき",
+        "englishTranslation": "liar",
+        "exampleSentence": "この うそたれ め！",
+        "standardJapaneseSentence": "この嘘つきめ！",
+        "englishSentence": "You damn liar!",
+        "location": "Osaka"
+      },
+      {
+        "id": 309,
+        "kansaiExpression": "うつくさい、うつくそい、うつくせい",
+        "standardJapanese": "美しい",
+        "englishTranslation": "beautiful",
+        "exampleSentence": "うつくさい花やなあ。",
+        "standardJapaneseSentence": "美しい花だなあ。",
+        "englishSentence": "What a beautiful flower.",
+        "location": "Osaka"
+      },
+      {
+        "id": 310,
+        "kansaiExpression": "うっとこ",
+        "standardJapanese": "私の家",
+        "englishTranslation": "my house, my place",
+        "exampleSentence": "今度うっとこ寄ってってーな。",
+        "standardJapaneseSentence": "今度私の家に寄っていってね。",
+        "englishSentence": "Stop by my place next time.",
+        "location": "Osaka"
+      },
+      {
+        "id": 311,
+        "kansaiExpression": "えーかっこする",
+        "standardJapanese": "気取る",
+        "englishTranslation": "show off, act cool, put on airs",
+        "exampleSentence": "えーかっこしい やなあ、あいつは。",
+        "standardJapaneseSentence": "気取り屋だなあ、あいつは。",
+        "englishSentence": "He's such a show-off.",
+        "location": "Osaka"
+      },
+      {
+        "id": 312,
+        "kansaiExpression": "ええ",
+        "standardJapanese": "良い",
+        "englishTranslation": "good, fine, okay",
+        "exampleSentence": "ええで、それで。",
+        "standardJapaneseSentence": "いいよ、それで。",
+        "englishSentence": "That's fine.",
+        "location": "Osaka"
+      },
+      {
+        "id": 313,
+        "kansaiExpression": "えげつない",
+        "standardJapanese": "ひどい",
+        "englishTranslation": "nasty, dirty, vulgar, extreme, awful, harsh",
+        "exampleSentence": "えげつない点数とってしもた。",
+        "standardJapaneseSentence": "ひどい点数をとってしまった。",
+        "englishSentence": "I got a terrible score.",
+        "location": "Osaka"
+      },
+      {
+        "id": 314,
+        "kansaiExpression": "えらい",
+        "standardJapanese": "疲れた",
+        "englishTranslation": "tired, exhausted",
+        "exampleSentence": "今日は一日歩き回ってえらいわ。",
+        "standardJapaneseSentence": "今日は一日歩き回って疲れたよ。",
+        "englishSentence": "I walked around all day today, I'm exhausted.",
+        "location": "Osaka"
+      },
+      {
+        "id": 315,
+        "kansaiExpression": "おーきに",
+        "standardJapanese": "ありがとう",
+        "englishTranslation": "Thank you",
+        "exampleSentence": "おーきに、助かるわ。",
+        "standardJapaneseSentence": "ありがとう、助かるよ。",
+        "englishSentence": "Thanks, that helps a lot.",
+        "location": "Osaka"
+      },
+      {
+        "id": 316,
+        "kansaiExpression": "おーじょーする",
+        "standardJapanese": "困る",
+        "englishTranslation": "be in trouble, be at a loss, have a hard time",
+        "exampleSentence": "宿題ぎょうさんあって おーじょーしたわ。",
+        "standardJapaneseSentence": "宿題がたくさんあって困ったよ。",
+        "englishSentence": "I had a hard time because there was so much homework.",
+        "location": "Osaka"
+      },
+      {
+        "id": 317,
+        "kansaiExpression": "おとつい",
+        "standardJapanese": "一昨日",
+        "englishTranslation": "the day before yesterday",
+        "exampleSentence": "おとつい、映画見に行ったで。",
+        "standardJapaneseSentence": "一昨日、映画を見に行ったよ。",
+        "englishSentence": "I went to see a movie the day before yesterday.",
+        "location": "Osaka"
+      },
+      {
+        "id": 318,
+        "kansaiExpression": "おはようござんす",
+        "standardJapanese": "おはようございます",
+        "englishTranslation": "Good morning (somewhat old-fashioned/theatrical)",
+        "exampleSentence": "おはようござんす！今日もええ天気や！",
+        "standardJapaneseSentence": "おはようございます！今日もいい天気だ！",
+        "englishSentence": "Good morning! It's nice weather again today!",
+        "location": "Osaka"
+      },
+      {
+        "id": 319,
+        "kansaiExpression": "おはよーおかえり",
+        "standardJapanese": "いってらっしゃい",
+        "englishTranslation": "See you later, Take care (said to someone leaving home)",
+        "exampleSentence": "遅れんようにしいや、おはよーおかえり。",
+        "standardJapaneseSentence": "遅れないようにしなさいよ、いってらっしゃい。",
+        "englishSentence": "Don't be late, take care.",
+        "location": "Osaka"
+      },
+      {
+        "id": 320,
+        "kansaiExpression": "おもろい",
+        "standardJapanese": "おもしろい",
+        "englishTranslation": "interesting, funny, amusing",
+        "exampleSentence": "この番組、めっちゃおもろいやん。",
+        "standardJapaneseSentence": "この番組、すごく面白いじゃないか。",
+        "englishSentence": "This show is really funny.",
+        "location": "Osaka"
+      },
+      {
+        "id": 321,
+        "kansaiExpression": "かいらし",
+        "standardJapanese": "かわいらしい",
+        "englishTranslation": "cute, adorable",
+        "exampleSentence": "かいらし子犬やなあ。",
+        "standardJapaneseSentence": "かわいらしい子犬だなあ。",
+        "englishSentence": "What an adorable puppy.",
+        "location": "Osaka"
+      },
+      {
+        "id": 322,
+        "kansaiExpression": "帰りしな",
+        "standardJapanese": "帰る途中",
+        "englishTranslation": "on the way back/home",
+        "exampleSentence": "帰りしなに牛乳買うてきてー。",
+        "standardJapaneseSentence": "帰る途中で牛乳を買ってきて。",
+        "englishSentence": "Buy some milk on your way home.",
+        "location": "Osaka"
+      },
+      {
+        "id": 323,
+        "kansaiExpression": "カッターシャツ",
+        "standardJapanese": "ワイシャツ",
+        "englishTranslation": "dress shirt (Wasei-eigo: cutter shirt)",
+        "exampleSentence": "明日はカッターシャツ着ていかなあかん。",
+        "standardJapaneseSentence": "明日はワイシャツを着ていかなければいけない。",
+        "englishSentence": "I have to wear a dress shirt tomorrow.",
+        "location": "Osaka"
+      },
+      {
+        "id": 324,
+        "kansaiExpression": "かまへん",
+        "standardJapanese": "かまわない",
+        "englishTranslation": "It doesn't matter, It's okay, I don't mind",
+        "exampleSentence": "別にええよ、かまへんかまへん。",
+        "standardJapaneseSentence": "別にいいよ、かまわないかまわない。",
+        "englishSentence": "It's fine, don't worry about it.",
+        "location": "Osaka"
+      },
+      {
+        "id": 325,
+        "kansaiExpression": "がめつい",
+        "standardJapanese": "けちな",
+        "englishTranslation": "greedy, money-grubbing, stingy",
+        "exampleSentence": "あいつはホンマがめついやっちゃ。",
+        "standardJapaneseSentence": "あいつは本当に欲が深いやつだ。",
+        "englishSentence": "He's a really greedy person.",
+        "location": "Osaka"
+      },
+      {
+        "id": 326,
+        "kansaiExpression": "かんにん",
+        "standardJapanese": "ごめん",
+        "englishTranslation": "Sorry, Forgive me, Pardon me",
+        "exampleSentence": "遅なってかんにんな。",
+        "standardJapaneseSentence": "遅くなってごめんね。",
+        "englishSentence": "Sorry for being late.",
+        "location": "Osaka"
+      },
+      {
+        "id": 327,
+        "kansaiExpression": "きしょくええ",
+        "standardJapanese": "気持ちがいい",
+        "englishTranslation": "feels good, pleasant",
+        "exampleSentence": "天気ええし、きしょくええなあ。",
+        "standardJapaneseSentence": "天気がいいし、気持ちがいいなあ。",
+        "englishSentence": "The weather's nice, it feels good.",
+        "location": "Osaka"
+      },
+      {
+        "id": 328,
+        "kansaiExpression": "ぐねる",
+        "standardJapanese": "くじく",
+        "englishTranslation": "sprain, twist (ankle, wrist etc.)",
+        "exampleSentence": "階段で足ぐねってもうた。",
+        "standardJapaneseSentence": "階段で足をくじいてしまった。",
+        "englishSentence": "I sprained my ankle on the stairs.",
+        "location": "Osaka"
+      },
+      {
+        "id": 329,
+        "kansaiExpression": "けったいな",
+        "standardJapanese": "奇妙な",
+        "englishTranslation": "strange, queer, odd",
+        "exampleSentence": "けったいな音がするなあ。",
+        "standardJapaneseSentence": "奇妙な音がするなあ。",
+        "englishSentence": "There's a strange noise.",
+        "location": "Osaka"
+      },
+      {
+        "id": 330,
+        "kansaiExpression": "ごきげんさん",
+        "standardJapanese": "ごきげんいかが？",
+        "englishTranslation": "How are you?",
+        "exampleSentence": "やあ、ごきげんさん。元気にしてるか？",
+        "standardJapaneseSentence": "やあ、ごきげんいかが？元気にしているか？",
+        "englishSentence": "Hey, how are you? Are you doing well?",
+        "location": "Osaka"
+      },
+      {
+        "id": 331,
+        "kansaiExpression": "こころわるい",
+        "standardJapanese": "気持ちがよくない、不快",
+        "englishTranslation": "unpleasant, uncomfortable, feel uneasy/bad",
+        "exampleSentence": "なんか知らんけど、こころわるいわ。",
+        "standardJapaneseSentence": "なんだか分からないけど、気分が悪い。",
+        "englishSentence": "I don't know why, but I feel uneasy.",
+        "location": "Osaka"
+      },
+      {
+        "id": 332,
+        "kansaiExpression": "こすい",
+        "standardJapanese": "ずるい",
+        "englishTranslation": "sly, cunning, unfair",
+        "exampleSentence": "やり方がこすいわ！",
+        "standardJapaneseSentence": "やり方がずるいよ！",
+        "englishSentence": "That way of doing things is unfair!",
+        "location": "Osaka"
+      },
+      {
+        "id": 333,
+        "kansaiExpression": "こそばい",
+        "standardJapanese": "くすぐったい",
+        "englishTranslation": "ticklish",
+        "exampleSentence": "やめてー、そこ こそばいねん！",
+        "standardJapaneseSentence": "やめてよ、そこはくすぐったいんだ！",
+        "englishSentence": "Stop it, that tickles!",
+        "location": "Osaka"
+      },
+      {
+        "id": 334,
+        "kansaiExpression": "ごっかぶり",
+        "standardJapanese": "ゴキブリ",
+        "englishTranslation": "cockroach",
+        "exampleSentence": "うわー！ごっかぶり出た！",
+        "standardJapaneseSentence": "うわー！ゴキブリが出た！",
+        "englishSentence": "Aah! A cockroach appeared!",
+        "location": "Osaka"
+      },
+      {
+        "id": 335,
+        "kansaiExpression": "こらえたる",
+        "standardJapanese": "許してあげる",
+        "englishTranslation": "I'll forgive you, I'll let it go",
+        "exampleSentence": "今回だけはこらえたるわ。",
+        "standardJapaneseSentence": "今回だけは許してあげるよ。",
+        "englishSentence": "I'll forgive you just this once.",
+        "location": "Osaka"
+      },
+      {
+        "id": 336,
+        "kansaiExpression": "こらえてーな",
+        "standardJapanese": "許して、勘弁して",
+        "englishTranslation": "Forgive me, Give me a break, Please let it go",
+        "exampleSentence": "悪かったって、こらえてーな。",
+        "standardJapaneseSentence": "悪かったよ、許してよ。",
+        "englishSentence": "It was my fault, please forgive me.",
+        "location": "Osaka"
+      },
+      {
+        "id": 337,
+        "kansaiExpression": "さぶい",
+        "standardJapanese": "寒い",
+        "englishTranslation": "cold (weather)",
+        "exampleSentence": "さぶいからはよ家入ろ。",
+        "standardJapaneseSentence": "寒いから早く家に入ろう。",
+        "englishSentence": "It's cold, let's hurry inside.",
+        "location": "Osaka"
+      },
+      {
+        "id": 338,
+        "kansaiExpression": "さぶいぼ",
+        "standardJapanese": "鳥肌",
+        "englishTranslation": "goosebumps",
+        "exampleSentence": "怖い話聞いて、さぶいぼ立ったわ。",
+        "standardJapaneseSentence": "怖い話を聞いて、鳥肌が立ったよ。",
+        "englishSentence": "I heard a scary story and got goosebumps.",
+        "location": "Osaka"
+      },
+      {
+        "id": 339,
+        "kansaiExpression": "さら",
+        "standardJapanese": "新しい",
+        "englishTranslation": "new, brand new",
+        "exampleSentence": "これ、さらの服やで。",
+        "standardJapaneseSentence": "これは、新品の服だよ。",
+        "englishSentence": "These are brand new clothes.",
+        "location": "Osaka"
+      },
+      {
+        "id": 340,
+        "kansaiExpression": "しこる",
+        "standardJapanese": "ふざける",
+        "englishTranslation": "fool around, act tough, show off",
+        "exampleSentence": "しこってんと、まじめにしいや。",
+        "standardJapaneseSentence": "ふざけないで、真面目にしなさい。",
+        "englishSentence": "Stop fooling around and be serious.",
+        "location": "Osaka"
+      },
+      {
+        "id": 341,
+        "kansaiExpression": "しゃあない",
+        "standardJapanese": "仕方がない",
+        "englishTranslation": "It cannot be helped, Oh well",
+        "exampleSentence": "雨やから中止でもしゃあないな。",
+        "standardJapaneseSentence": "雨だから中止でも仕方がないな。",
+        "englishSentence": "It's raining, so it can't be helped if it's cancelled.",
+        "location": "Osaka"
+      },
+      {
+        "id": 342,
+        "kansaiExpression": "しょうもなっ",
+        "standardJapanese": "くだらない",
+        "englishTranslation": "stupid, pointless, boring, trivial",
+        "exampleSentence": "しょうもなっ！もうええわ。",
+        "standardJapaneseSentence": "くだらない！もういいよ。",
+        "englishSentence": "That's stupid! Enough already.",
+        "location": "Osaka"
+      },
+      {
+        "id": 343,
+        "kansaiExpression": "素うどん",
+        "standardJapanese": "かけうどん",
+        "englishTranslation": "plain udon noodles in broth",
+        "exampleSentence": "天かす入れて、素うどん食べるわ。",
+        "standardJapaneseSentence": "天かすを入れて、かけうどんを食べるよ。",
+        "englishSentence": "I'll add tempura bits and eat plain udon.",
+        "location": "Osaka"
+      },
+      {
+        "id": 344,
+        "kansaiExpression": "すえび",
+        "standardJapanese": "末日",
+        "englishTranslation": "last day of the month",
+        "exampleSentence": "給料日はすえびや。",
+        "standardJapaneseSentence": "給料日は末日だ。",
+        "englishSentence": "Payday is the last day of the month.",
+        "location": "Osaka"
+      },
+      {
+        "id": 345,
+        "kansaiExpression": "すかたん",
+        "standardJapanese": "あてはずれ、まぬけ",
+        "englishTranslation": "miss, failure; idiot, blunderer",
+        "exampleSentence": "また すかたん やってもうた。(blunder) / クジ引いたけど すかたん やった。(miss)",
+        "standardJapaneseSentence": "また間抜けなことをやってしまった。/ くじを引いたけどはずれだった。",
+        "englishSentence": "I made a stupid mistake again. / I drew a lot but it was a blank.",
+        "location": "Osaka"
+      },
+      {
+        "id": 346,
+        "kansaiExpression": "すきやねん",
+        "standardJapanese": "好きなんだ",
+        "englishTranslation": "I like it/you, I love it/you",
+        "exampleSentence": "大阪、めっちゃ好きやねん。",
+        "standardJapaneseSentence": "大阪が、すごく好きなんだ。",
+        "englishSentence": "I really love Osaka.",
+        "location": "Osaka"
+      },
+      {
+        "id": 347,
+        "kansaiExpression": "すっからかん",
+        "standardJapanese": "空っぽ",
+        "englishTranslation": "empty, broke",
+        "exampleSentence": "財布の中、すっからかんや。",
+        "standardJapaneseSentence": "財布の中は、空っぽだ。",
+        "englishSentence": "My wallet is empty.",
+        "location": "Osaka"
+      },
+      {
+        "id": 348,
+        "kansaiExpression": "せや",
+        "standardJapanese": "そうだ",
+        "englishTranslation": "That's right, It is so",
+        "exampleSentence": "せや！思い出した！",
+        "standardJapaneseSentence": "そうだ！思い出した！",
+        "englishSentence": "That's right! I remembered!",
+        "location": "Osaka"
+      },
+      {
+        "id": 349,
+        "kansaiExpression": "せわしない",
+        "standardJapanese": "忙しい",
+        "englishTranslation": "busy, hectic, restless",
+        "exampleSentence": "年末は何かとせわしないなあ。",
+        "standardJapaneseSentence": "年末は何かと忙しいなあ。",
+        "englishSentence": "The end of the year is always hectic.",
+        "location": "Osaka"
+      },
+      {
+        "id": 350,
+        "kansaiExpression": "炊いたん",
+        "standardJapanese": "煮物",
+        "englishTranslation": "simmered dish (nimono)",
+        "exampleSentence": "大根の炊いたん、うまいなあ。",
+        "standardJapaneseSentence": "大根の煮物は、うまいなあ。",
+        "englishSentence": "This simmered daikon radish is delicious.",
+        "location": "Osaka"
+      },
+      {
+        "id": 351,
+        "kansaiExpression": "ちゃうちゃう",
+        "standardJapanese": "ちがうちがう",
+        "englishTranslation": "No, no!; That's wrong!",
+        "exampleSentence": "ちゃうちゃう、そうやないねん。",
+        "standardJapaneseSentence": "違う違う、そうじゃないんだ。",
+        "englishSentence": "No, no, that's not it.",
+        "location": "Osaka"
+      },
+      {
+        "id": 352,
+        "kansaiExpression": "チャリンコ",
+        "standardJapanese": "自転車",
+        "englishTranslation": "bicycle (colloquial)",
+        "exampleSentence": "駅までチャリンコで行くわ。",
+        "standardJapaneseSentence": "駅まで自転車で行くよ。",
+        "englishSentence": "I'll go to the station by bike.",
+        "location": "Osaka"
+      },
+      {
+        "id": 353,
+        "kansaiExpression": "ちゅうこっちゃ",
+        "standardJapanese": "そういうことだ",
+        "englishTranslation": "That's what it means, That's how it is",
+        "exampleSentence": "つまり、あかん ちゅうこっちゃな。",
+        "standardJapaneseSentence": "つまり、だめだということだな。",
+        "englishSentence": "So, that means it's no good.",
+        "location": "Osaka"
+      },
+      {
+        "id": 354,
+        "kansaiExpression": "つきだし",
+        "standardJapanese": "お通し",
+        "englishTranslation": "otoshi (small appetizer served at bars/izakaya)",
+        "exampleSentence": "ここのつきだし、いつも美味しいねん。",
+        "standardJapaneseSentence": "ここのお通しは、いつも美味しいんだ。",
+        "englishSentence": "The appetizer here is always delicious.",
+        "location": "Osaka"
+      },
+      {
+        "id": 355,
+        "kansaiExpression": "でぼちん",
+        "standardJapanese": "おでこ",
+        "englishTranslation": "forehead",
+        "exampleSentence": "でぼちん、蚊に食われた。",
+        "standardJapaneseSentence": "おでこを蚊に刺された。",
+        "englishSentence": "I got a mosquito bite on my forehead.",
+        "location": "Osaka"
+      },
+      {
+        "id": 356,
+        "kansaiExpression": "てれこ",
+        "standardJapanese": "入れ違い",
+        "englishTranslation": "opposite, reverse, switched, missing each other",
+        "exampleSentence": "セーター、てれこに着てるで。",
+        "standardJapaneseSentence": "セーターを裏返しに着ているよ。",
+        "englishSentence": "You're wearing your sweater inside out.",
+        "location": "Osaka"
+      },
+      {
+        "id": 357,
+        "kansaiExpression": "どない",
+        "standardJapanese": "どんな、どのように",
+        "englishTranslation": "how, what, what kind of",
+        "exampleSentence": "どない思う？",
+        "standardJapaneseSentence": "どう思う？",
+        "englishSentence": "What do you think?",
+        "location": "Osaka"
+      },
+      {
+        "id": 358,
+        "kansaiExpression": "どんつき",
+        "standardJapanese": "突き当り",
+        "englishTranslation": "end of the road/hallway, T-junction",
+        "exampleSentence": "どんつきの店、まだ開いてるかな。",
+        "standardJapaneseSentence": "突き当りの店は、まだ開いているかな。",
+        "englishSentence": "I wonder if the shop at the end of the street is still open.",
+        "location": "Osaka"
+      },
+      {
+        "id": 359,
+        "kansaiExpression": "なおす",
+        "standardJapanese": "片付ける",
+        "englishTranslation": "put away, tidy up",
+        "exampleSentence": "遊んだおもちゃ、はよ なおしや。",
+        "standardJapaneseSentence": "遊んだおもちゃを、早く片付けなさい。",
+        "englishSentence": "Hurry up and put away the toys you played with.",
+        "location": "Osaka"
+      },
+      {
+        "id": 360,
+        "kansaiExpression": "なんぎや",
+        "standardJapanese": "困難だ",
+        "englishTranslation": "It's difficult, It's tough, It's a hassle",
+        "exampleSentence": "こんな暑い中、外で仕事すんのは なんぎやわ。",
+        "standardJapaneseSentence": "こんな暑い中、外で仕事をするのは大変だよ。",
+        "englishSentence": "Working outside in this heat is tough.",
+        "location": "Osaka"
+      },
+      {
+        "id": 361,
+        "kansaiExpression": "なんでやねん",
+        "standardJapanese": "どうしてなんだよ？",
+        "englishTranslation": "Why?!, What the heck?! (iconic Osaka phrase)",
+        "exampleSentence": "なんでやねん！ありえへんわ！",
+        "standardJapaneseSentence": "どうしてなんだよ！ありえないよ！",
+        "englishSentence": "Why?! That's impossible!",
+        "location": "Osaka"
+      },
+      {
+        "id": 362,
+        "kansaiExpression": "なんど",
+        "standardJapanese": "いくら",
+        "englishTranslation": "how much (often in annoyed rhetorical question)",
+        "exampleSentence": "これ、なんど言うたらわかるねん？",
+        "standardJapaneseSentence": "これ、いくら言ったらわかるんだ？",
+        "englishSentence": "How many times do I have to tell you this for you to understand?",
+        "location": "Osaka"
+      },
+      {
+        "id": 363,
+        "kansaiExpression": "似おてる",
+        "standardJapanese": "似合っている",
+        "englishTranslation": "suit (someone), look good on (someone)",
+        "exampleSentence": "その服、よう似おてるで。",
+        "standardJapaneseSentence": "その服、よく似合っているよ。",
+        "englishSentence": "Those clothes look good on you.",
+        "location": "Osaka"
+      },
+      {
+        "id": 364,
+        "kansaiExpression": "にっちょ",
+        "standardJapanese": "日曜",
+        "englishTranslation": "Sunday",
+        "exampleSentence": "次の にっちょ、暇してる？",
+        "standardJapaneseSentence": "次の日曜日、暇してる？",
+        "englishSentence": "Are you free next Sunday?",
+        "location": "Osaka"
+      },
+      {
+        "id": 365,
+        "kansaiExpression": "ぬくめる",
+        "standardJapanese": "温める",
+        "englishTranslation": "warm up, heat up",
+        "exampleSentence": "お弁当、レンジでぬくめてな。",
+        "standardJapaneseSentence": "お弁当をレンジで温めてね。",
+        "englishSentence": "Warm up the bento in the microwave, okay?",
+        "location": "Osaka"
+      },
+      {
+        "id": 366,
+        "kansaiExpression": "のんもる",
+        "standardJapanese": "飲みやがる",
+        "englishTranslation": "drink (pejorative/aggressive suffix 'yagaru')",
+        "exampleSentence": "わいのジュース、勝手にのんもりよった！",
+        "standardJapaneseSentence": "俺のジュースを、勝手に飲みやがった！",
+        "englishSentence": "He drank my juice without asking!",
+        "location": "Osaka"
+      },
+      {
+        "id": 367,
+        "kansaiExpression": "はよ",
+        "standardJapanese": "早く",
+        "englishTranslation": "quickly, hurry up",
+        "exampleSentence": "はよ しぃや！",
+        "standardJapaneseSentence": "早く しなさいよ！",
+        "englishSentence": "Hurry up!",
+        "location": "Osaka"
+      },
+      {
+        "id": 368,
+        "kansaiExpression": "ひやこい",
+        "standardJapanese": "冷たい",
+        "englishTranslation": "cold (to touch)",
+        "exampleSentence": "水がひやこいなあ。",
+        "standardJapaneseSentence": "水が冷たいなあ。",
+        "englishSentence": "The water is cold.",
+        "location": "Osaka"
+      },
+      {
+        "id": 369,
+        "kansaiExpression": "べっぴんさん",
+        "standardJapanese": "美人",
+        "englishTranslation": "beautiful woman (polite/admiring)",
+        "exampleSentence": "あの女優さん、ほんまべっぴんさんやなあ。",
+        "standardJapaneseSentence": "あの女優さん、本当に美人だなあ。",
+        "englishSentence": "That actress is really beautiful.",
+        "location": "Osaka"
+      },
+      {
+        "id": 370,
+        "kansaiExpression": "へてから",
+        "standardJapanese": "それから",
+        "englishTranslation": "and then, after that",
+        "exampleSentence": "宿題して、へてから遊びに行った。",
+        "standardJapaneseSentence": "宿題をして、それから遊びに行った。",
+        "englishSentence": "I did my homework, and then I went out to play.",
+        "location": "Osaka"
+      },
+      {
+        "id": 371,
+        "kansaiExpression": "べべ",
+        "standardJapanese": "最下位",
+        "englishTranslation": "last place, bottom",
+        "exampleSentence": "かけっこ、また べべ やったわ。",
+        "standardJapaneseSentence": "かけっこ、また最下位だったよ。",
+        "englishSentence": "I came in last place in the race again.",
+        "location": "Osaka"
+      },
+      {
+        "id": 372,
+        "kansaiExpression": "ほかす",
+        "standardJapanese": "捨てる",
+        "englishTranslation": "throw away, discard",
+        "exampleSentence": "これ、もう ほかそか。",
+        "standardJapaneseSentence": "これ、もう捨てようか。",
+        "englishSentence": "Shall we throw this away now?",
+        "location": "Osaka"
+      },
+      {
+        "id": 373,
+        "kansaiExpression": "ぼちぼち",
+        "standardJapanese": "そろそろ",
+        "englishTranslation": "soon, gradually, little by little, it's about time",
+        "exampleSentence": "ぼちぼち帰ろか。",
+        "standardJapaneseSentence": "そろそろ帰ろうか。",
+        "englishSentence": "Shall we head home soon?",
+        "location": "Osaka"
+      },
+      {
+        "id": 374,
+        "kansaiExpression": "ほんま",
+        "standardJapanese": "ほんとう",
+        "englishTranslation": "really, true, truly",
+        "exampleSentence": "ほんま、おおきに。",
+        "standardJapaneseSentence": "本当に、ありがとう。",
+        "englishSentence": "Thank you very much.",
+        "location": "Osaka"
+      },
+      {
+        "id": 375,
+        "kansaiExpression": "ほんまに？",
+        "standardJapanese": "ほんとうに？",
+        "englishTranslation": "Really?",
+        "exampleSentence": "え、ほんまに？ それすごいなあ。",
+        "standardJapaneseSentence": "え、本当に？ それはすごいなあ。",
+        "englishSentence": "Eh, really? That's amazing.",
+        "location": "Osaka"
+      },
+      {
+        "id": 376,
+        "kansaiExpression": "めっちゃ",
+        "standardJapanese": "とても、非常に",
+        "englishTranslation": "very, extremely, really",
+        "exampleSentence": "めっちゃお腹すいたわ。",
+        "standardJapaneseSentence": "すごくお腹がすいたよ。",
+        "englishSentence": "I'm really hungry.",
+        "location": "Osaka"
+      },
+      {
+        "id": 377,
+        "kansaiExpression": "めばちこ",
+        "standardJapanese": "ものもらい",
+        "englishTranslation": "sty (on the eyelid)",
+        "exampleSentence": "めばちこ できてしもた。",
+        "standardJapaneseSentence": "ものもらいができてしまった。",
+        "englishSentence": "I got a sty.",
+        "location": "Osaka"
+      },
+      {
+        "id": 378,
+        "kansaiExpression": "モータープール",
+        "standardJapanese": "駐車場",
+        "englishTranslation": "parking lot (Wasei-eigo: motor pool)",
+        "exampleSentence": "車、モータープールに停めといて。",
+        "standardJapaneseSentence": "車を駐車場に停めておいて。",
+        "englishSentence": "Park the car in the parking lot.",
+        "location": "Osaka"
+      },
+      {
+        "id": 379,
+        "kansaiExpression": "ややこ",
+        "standardJapanese": "赤ん坊",
+        "englishTranslation": "baby, infant",
+        "exampleSentence": "ややこ が寝てるから静かにしぃや。",
+        "standardJapaneseSentence": "赤ん坊が寝ているから静かにしなさいよ。",
+        "englishSentence": "The baby's sleeping, so be quiet.",
+        "location": "Osaka"
+      },
+      {
+        "id": 380,
+        "kansaiExpression": "よーさん",
+        "standardJapanese": "たくさん",
+        "englishTranslation": "many, a lot",
+        "exampleSentence": "人がよーさんおるなあ。",
+        "standardJapaneseSentence": "人がたくさんいるなあ。",
+        "englishSentence": "There are a lot of people.",
+        "location": "Osaka"
+      },
+      {
+        "id": 381,
+        "kansaiExpression": "よろしゅーおあがり",
+        "standardJapanese": "お粗末さまでした",
+        "englishTranslation": "It wasn't much (said by host after a meal)",
+        "exampleSentence": "お口に合いましたか？ よろしゅーおあがり。",
+        "standardJapaneseSentence": "お口に合いましたか？ お粗末さまでした。",
+        "englishSentence": "Did you enjoy it? It wasn't much (but I hope you liked it).",
+        "location": "Osaka"
+      },
+      {
+        "id": 382,
+        "kansaiExpression": "レイコ―",
+        "standardJapanese": "アイスコーヒー",
+        "englishTranslation": "iced coffee (Wasei-eigo: rei-koh)",
+        "exampleSentence": "暑いし、レイコ―でも飲もか。",
+        "standardJapaneseSentence": "暑いし、アイスコーヒーでも飲もうか。",
+        "englishSentence": "It's hot, shall we drink some iced coffee?",
+        "location": "Osaka"
+      },
+      {
+        "id": 383,
+        "kansaiExpression": "わい",
+        "standardJapanese": "わたし",
+        "englishTranslation": "I, me (blunt, often male)",
+        "exampleSentence": "わいはそう思うで。",
+        "standardJapaneseSentence": "俺はそう思うよ。",
+        "englishSentence": "I think so.",
+        "location": "Osaka"
+      },
+      {
+        "id": 384,
+        "kansaiExpression": "わや",
+        "standardJapanese": "めちゃくちゃ",
+        "englishTranslation": "messy, ruined, terrible, unreasonable",
+        "exampleSentence": "部屋の中、わややんか！",
+        "standardJapaneseSentence": "部屋の中が、めちゃくちゃじゃないか！",
+        "englishSentence": "The room is a mess!",
+        "location": "Osaka"
+      }
+]

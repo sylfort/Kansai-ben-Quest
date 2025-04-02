@@ -1,0 +1,625 @@
+[
+    
+
+  
+  {
+    "id": 235,
+    "kansaiExpression": "あかんえ",
+    "standardJapanese": "いけないわ",
+    "englishTranslation": "It's no good (gentle, often female)",
+    "exampleSentence": "そんなことしたら、あかんえ。",
+    "standardJapaneseSentence": "そんなことをしたら、いけませんよ。",
+    "englishSentence": "You shouldn't do that.",
+    "location": "Kyoto"
+  },
+  {
+    "id": 236,
+    "kansaiExpression": "あこ",
+    "standardJapanese": "だめ",
+    "englishTranslation": "no good, useless",
+    "exampleSentence": "このペン、もう あこやわ。",
+    "standardJapaneseSentence": "このペンは、もうだめだ。",
+    "englishSentence": "This pen is no good anymore.",
+    "location": "Kyoto"
+  },
+  {
+    "id": 237,
+    "kansaiExpression": "あったこ",
+    "standardJapanese": "暖かく",
+    "englishTranslation": "warmly",
+    "exampleSentence": "もっと あったこしいや。",
+    "standardJapaneseSentence": "もっと暖かくしなさいよ。",
+    "englishSentence": "Dress more warmly.",
+    "location": "Kyoto"
+  },
+  {
+    "id": 238,
+    "kansaiExpression": "あないして",
+    "standardJapanese": "あのように",
+    "englishTranslation": "like that, in that way",
+    "exampleSentence": "あないして言うてはったえ。",
+    "standardJapaneseSentence": "あのように言っていましたよ。",
+    "englishSentence": "They were saying it like that.",
+    "location": "Kyoto"
+  },
+  {
+    "id": 239,
+    "kansaiExpression": "あまえた",
+    "standardJapanese": "甘えん坊",
+    "englishTranslation": "spoiled child, someone who likes to be pampered",
+    "exampleSentence": "うちの子、あまえたで困るわ。",
+    "standardJapaneseSentence": "うちの子は、甘えん坊で困ります。",
+    "englishSentence": "My child is spoiled, it's a problem.",
+    "location": "Kyoto"
+  },
+  {
+    "id": 240,
+    "kansaiExpression": "あんじょー",
+    "standardJapanese": "うまく、上手に",
+    "englishTranslation": "skillfully, well, cleverly",
+    "exampleSentence": "あんじょー やっときよし。",
+    "standardJapaneseSentence": "うまく やっておきなさいよ。",
+    "englishSentence": "Do it well, okay?",
+    "location": "Kyoto"
+  },
+  {
+    "id": 241,
+    "kansaiExpression": "いけず",
+    "standardJapanese": "いじわる、いじわるな人",
+    "englishTranslation": "mean, nasty, spiteful; a mean person",
+    "exampleSentence": "いけずなこと言わんといて。",
+    "standardJapaneseSentence": "意地悪なことを言わないでください。",
+    "englishSentence": "Don't say mean things.",
+    "location": "Kyoto"
+  },
+  {
+    "id": 242,
+    "kansaiExpression": "いにしな",
+    "standardJapanese": "帰りがけ",
+    "englishTranslation": "on the way back/home",
+    "exampleSentence": "いにしなに寄っていかはる？",
+    "standardJapaneseSentence": "帰り道に寄っていかれますか？",
+    "englishSentence": "Will you stop by on your way home?",
+    "location": "Kyoto"
+  },
+  {
+    "id": 243,
+    "kansaiExpression": "いらち",
+    "standardJapanese": "落ち着きのない人",
+    "englishTranslation": "impatient person, restless person, hasty person",
+    "exampleSentence": "あんたはいらちやなあ。",
+    "standardJapaneseSentence": "あなたはせっかちだなあ。",
+    "englishSentence": "You're so impatient.",
+    "location": "Kyoto"
+  },
+  {
+    "id": 244,
+    "kansaiExpression": "うち",
+    "standardJapanese": "私（女性が使う）",
+    "englishTranslation": "I, me (used by females)",
+    "exampleSentence": "うちはこれでええわ。",
+    "standardJapaneseSentence": "私はこれでいいです。",
+    "englishSentence": "This is fine for me.",
+    "location": "Kyoto"
+  },
+  {
+    "id": 245,
+    "kansaiExpression": "えーにょーぼー",
+    "standardJapanese": "いい女、美人",
+    "englishTranslation": "good woman, beautiful woman",
+    "exampleSentence": "あこの人はえーにょーぼーや。",
+    "standardJapaneseSentence": "あの人はいい女だ。",
+    "englishSentence": "She is a beautiful woman.",
+    "location": "Kyoto"
+  },
+  {
+    "id": 246,
+    "kansaiExpression": "えげつない",
+    "standardJapanese": "ひどい",
+    "englishTranslation": "nasty, dirty, vulgar, extreme, awful",
+    "exampleSentence": "えげつない冗談はやめよし。",
+    "standardJapaneseSentence": "ひどい冗談はやめなさいよ。",
+    "englishSentence": "Stop with the nasty jokes.",
+    "location": "Kyoto"
+  },
+  {
+    "id": 247,
+    "kansaiExpression": "おいでやす",
+    "standardJapanese": "いらっしゃい",
+    "englishTranslation": "Welcome (polite, typically used in shops/restaurants)",
+    "exampleSentence": "おいでやす、どうぞお入りください。",
+    "standardJapaneseSentence": "いらっしゃいませ、どうぞお入りください。",
+    "englishSentence": "Welcome, please come in.",
+    "location": "Kyoto"
+  },
+  {
+    "id": 248,
+    "kansaiExpression": "おいど",
+    "standardJapanese": "おしり",
+    "englishTranslation": "buttocks, bottom",
+    "exampleSentence": "こけておいど打ったわ。",
+    "standardJapaneseSentence": "転んでお尻を打ったわ。",
+    "englishSentence": "I fell and hit my bottom.",
+    "location": "Kyoto"
+  },
+  {
+    "id": 249,
+    "kansaiExpression": "おいない",
+    "standardJapanese": "いらっしゃいよ",
+    "englishTranslation": "Welcome!, Come in! (more familiar than おいでやす)",
+    "exampleSentence": "まあ、おいない。よう来てくれはった。",
+    "standardJapaneseSentence": "まあ、いらっしゃい。よく来てくれましたね。",
+    "englishSentence": "Well, welcome! Thanks for coming.",
+    "location": "Kyoto"
+  },
+  {
+    "id": 250,
+    "kansaiExpression": "おおきに",
+    "standardJapanese": "ありがとう",
+    "englishTranslation": "Thank you",
+    "exampleSentence": "おおきに、毎度ありがとうさんどす。",
+    "standardJapaneseSentence": "ありがとう、毎度ありがとうございます。",
+    "englishSentence": "Thank you, thank you always for your patronage.",
+    "location": "Kyoto"
+  },
+  {
+    "id": 251,
+    "kansaiExpression": "おきばりやす",
+    "standardJapanese": "がんばりなさいよ、ご苦労さま",
+    "englishTranslation": "Do your best, Take care, Thank you for your trouble (polite)",
+    "exampleSentence": "ほな、おきばりやす。",
+    "standardJapaneseSentence": "では、頑張ってくださいね / ご苦労さまです。",
+    "englishSentence": "Well then, take care / do your best.",
+    "location": "Kyoto"
+  },
+  {
+    "id": 252,
+    "kansaiExpression": "おたのもうします",
+    "standardJapanese": "お願いします",
+    "englishTranslation": "Please (polite request)",
+    "exampleSentence": "これ、おたのもうします。",
+    "standardJapaneseSentence": "これを、お願いします。",
+    "englishSentence": "This, please.",
+    "location": "Kyoto"
+  },
+  {
+    "id": 253,
+    "kansaiExpression": "おはようさんどすぅ",
+    "standardJapanese": "おはようございます",
+    "englishTranslation": "Good morning (very polite, Kyoto style)",
+    "exampleSentence": "おはようさんどすぅ、ええお天気どすなぁ。",
+    "standardJapaneseSentence": "おはようございます、いいお天気ですねぇ。",
+    "englishSentence": "Good morning, it's lovely weather, isn't it?",
+    "location": "Kyoto"
+  },
+  {
+    "id": 254,
+    "kansaiExpression": "おばんです",
+    "standardJapanese": "こんばんは",
+    "englishTranslation": "Good evening (polite)",
+    "exampleSentence": "おばんどす、お邪魔します。",
+    "standardJapaneseSentence": "こんばんは、お邪魔します。",
+    "englishSentence": "Good evening, excuse me for intruding.",
+    "location": "Kyoto"
+  },
+  {
+    "id": 255,
+    "kansaiExpression": "おばんざい",
+    "standardJapanese": "お惣菜",
+    "englishTranslation": "Kyoto-style home cooking side dishes",
+    "exampleSentence": "今日のおばんざいは何どすか？",
+    "standardJapaneseSentence": "今日のお惣菜は何ですか？",
+    "englishSentence": "What are today's side dishes?",
+    "location": "Kyoto"
+  },
+  {
+    "id": 256,
+    "kansaiExpression": "おべんちゃら",
+    "standardJapanese": "お愛想",
+    "englishTranslation": "flattery, lip service, insincere compliments",
+    "exampleSentence": "おべんちゃら言うても、何も出しまへんえ。",
+    "standardJapaneseSentence": "お世辞を言っても、何も出しませんよ。",
+    "englishSentence": "Even if you flatter me, you won't get anything.",
+    "location": "Kyoto"
+  },
+  {
+    "id": 257,
+    "kansaiExpression": "おやかまっさん",
+    "standardJapanese": "お邪魔しました",
+    "englishTranslation": "Thank you for having me (said when leaving)",
+    "exampleSentence": "長居してすんません。おやかまっさん。",
+    "standardJapaneseSentence": "長居してすみません。お邪魔しました。",
+    "englishSentence": "Sorry for staying so long. Thank you for having me.",
+    "location": "Kyoto"
+  },
+  {
+    "id": 258,
+    "kansaiExpression": "かんにん",
+    "standardJapanese": "許してください",
+    "englishTranslation": "Forgive me, Pardon me, Excuse me",
+    "exampleSentence": "遅れてかんにんえ。",
+    "standardJapaneseSentence": "遅れてごめんね。",
+    "englishSentence": "Sorry I'm late / Forgive my lateness.",
+    "location": "Kyoto"
+  },
+  {
+    "id": 259,
+    "kansaiExpression": "かんにんえ",
+    "standardJapanese": "ごめんね、許してね",
+    "englishTranslation": "Sorry, Forgive me (gentle)",
+    "exampleSentence": "待たせてかんにんえ。",
+    "standardJapaneseSentence": "待たせてごめんね。",
+    "englishSentence": "Sorry to keep you waiting.",
+    "location": "Kyoto"
+  },
+  {
+    "id": 260,
+    "kansaiExpression": "きずい",
+    "standardJapanese": "わがまま",
+    "englishTranslation": "selfish, self-willed, fussy",
+    "exampleSentence": "きずいなこと言わんといて。",
+    "standardJapaneseSentence": "わがままなことを言わないでください。",
+    "englishSentence": "Don't say such selfish things.",
+    "location": "Kyoto"
+  },
+  {
+    "id": 261,
+    "kansaiExpression": "きやわるい、きゃーりい",
+    "standardJapanese": "気持ちが悪い",
+    "englishTranslation": "feel sick, unpleasant, creepy",
+    "exampleSentence": "なんか きやわるい 感じがする。",
+    "standardJapaneseSentence": "なんだか気持ちが悪い感じがする。",
+    "englishSentence": "I have a bad/unpleasant feeling about this.",
+    "location": "Kyoto"
+  },
+  {
+    "id": 262,
+    "kansaiExpression": "ぎょーさん",
+    "standardJapanese": "沢山",
+    "englishTranslation": "many, a lot",
+    "exampleSentence": "ぎょーさん人がいてはるわ。",
+    "standardJapaneseSentence": "たくさん人がいますね。",
+    "englishSentence": "There are a lot of people here.",
+    "location": "Kyoto"
+  },
+  {
+    "id": 263,
+    "kansaiExpression": "きよるな",
+    "standardJapanese": "来るな",
+    "englishTranslation": "Don't come (strong command)",
+    "exampleSentence": "こっちに きよるな！",
+    "standardJapaneseSentence": "こっちに来るな！",
+    "englishSentence": "Don't come over here!",
+    "location": "Kyoto"
+  },
+  {
+    "id": 264,
+    "kansaiExpression": "ごきげんさんどす",
+    "standardJapanese": "ごきげんいかが？",
+    "englishTranslation": "How are you? (polite Kyoto greeting)",
+    "exampleSentence": "まあ、ごきげんさんどす。お変わりおへんか？",
+    "standardJapaneseSentence": "まあ、ごきげんいかがですか。お変わりありませんか？",
+    "englishSentence": "Well, how are you doing? Has anything changed?",
+    "location": "Kyoto"
+  },
+  {
+    "id": 265,
+    "kansaiExpression": "ごめんやす",
+    "standardJapanese": "ごめんください",
+    "englishTranslation": "Excuse me (when entering a house/shop or calling attention)",
+    "exampleSentence": "ごめんやす、誰かいてはりますか？",
+    "standardJapaneseSentence": "ごめんください、誰かいらっしゃいますか？",
+    "englishSentence": "Excuse me, is anyone here?",
+    "location": "Kyoto"
+  },
+  {
+    "id": 266,
+    "kansaiExpression": "これなんぼ",
+    "standardJapanese": "これいくらですか",
+    "englishTranslation": "How much is this?",
+    "exampleSentence": "すんません、これなんぼどす？",
+    "standardJapaneseSentence": "すみません、これはいくらですか？",
+    "englishSentence": "Excuse me, how much is this?",
+    "location": "Kyoto"
+  },
+  {
+    "id": 267,
+    "kansaiExpression": "じぶんどき",
+    "standardJapanese": "食事時",
+    "englishTranslation": "mealtime",
+    "exampleSentence": "じぶんどきにすんまへん。",
+    "standardJapaneseSentence": "食事時にすみません。",
+    "englishSentence": "Sorry to bother you at mealtime.",
+    "location": "Kyoto"
+  },
+  {
+    "id": 268,
+    "kansaiExpression": "しもた",
+    "standardJapanese": "しまった",
+    "englishTranslation": "Oops!, Damn!, I messed up",
+    "exampleSentence": "しもた！ 宿題忘れてきた。",
+    "standardJapaneseSentence": "しまった！ 宿題を忘れてきた。",
+    "englishSentence": "Oops! I forgot my homework.",
+    "location": "Kyoto"
+  },
+  {
+    "id": 269,
+    "kansaiExpression": "しんどいねん",
+    "standardJapanese": "疲れた",
+    "englishTranslation": "I'm tired, It's tiring/tough",
+    "exampleSentence": "今日はよう歩いたし、しんどいねん。",
+    "standardJapaneseSentence": "今日はよく歩いたし、疲れたんだ。",
+    "englishSentence": "I walked a lot today, so I'm tired.",
+    "location": "Kyoto"
+  },
+  {
+    "id": 270,
+    "kansaiExpression": "すこい",
+    "standardJapanese": "ずるい",
+    "englishTranslation": "sly, unfair, cunning",
+    "exampleSentence": "あんただけ、すこいなあ。",
+    "standardJapaneseSentence": "あなただけ、ずるいなあ。",
+    "englishSentence": "Just you, that's unfair.",
+    "location": "Kyoto"
+  },
+  {
+    "id": 271,
+    "kansaiExpression": "だいじおへん",
+    "standardJapanese": "差し支えない",
+    "englishTranslation": "It's okay, No problem, It doesn't matter (polite)",
+    "exampleSentence": "そんなこと、だいじおへんえ。",
+    "standardJapaneseSentence": "そんなことは、差し支えありませんよ。",
+    "englishSentence": "That doesn't matter at all.",
+    "location": "Kyoto"
+  },
+  {
+    "id": 272,
+    "kansaiExpression": "たいそな",
+    "standardJapanese": "大げさな",
+    "englishTranslation": "exaggerated, grandiose, important-looking",
+    "exampleSentence": "たいそな箱に入ってるなあ。",
+    "standardJapaneseSentence": "大げさな箱に入っているなあ。",
+    "englishSentence": "It's in such an elaborate box.",
+    "location": "Kyoto"
+  },
+  {
+    "id": 273,
+    "kansaiExpression": "だわすけ",
+    "standardJapanese": "怠け者",
+    "englishTranslation": "lazy person, idler",
+    "exampleSentence": "あの だわすけ、また寝てるわ。",
+    "standardJapaneseSentence": "あの怠け者は、また寝ているよ。",
+    "englishSentence": "That lazy bum is sleeping again.",
+    "location": "Kyoto"
+  },
+  {
+    "id": 274,
+    "kansaiExpression": "たんと",
+    "standardJapanese": "沢山",
+    "englishTranslation": "plenty, a lot, much",
+    "exampleSentence": "たんと食べよし。",
+    "standardJapaneseSentence": "たくさん食べなさいよ。",
+    "englishSentence": "Eat plenty.",
+    "location": "Kyoto"
+  },
+  {
+    "id": 275,
+    "kansaiExpression": "つべたい",
+    "standardJapanese": "冷たい",
+    "englishTranslation": "cold (to touch)",
+    "exampleSentence": "この水、つべたいわ。",
+    "standardJapaneseSentence": "この水、冷たいわ。",
+    "englishSentence": "This water is cold.",
+    "location": "Kyoto"
+  },
+  {
+    "id": 276,
+    "kansaiExpression": "でぼちん",
+    "standardJapanese": "おでこ",
+    "englishTranslation": "forehead",
+    "exampleSentence": "転んで でぼちん 打ったんや。",
+    "standardJapaneseSentence": "転んでおでこを打ったんだ。",
+    "englishSentence": "I fell and hit my forehead.",
+    "location": "Kyoto"
+  },
+  {
+    "id": 277,
+    "kansaiExpression": "どない",
+    "standardJapanese": "どんな、どのように",
+    "englishTranslation": "how, what, what kind of",
+    "exampleSentence": "どないしはったんどすか？",
+    "standardJapaneseSentence": "どうなさいましたか？",
+    "englishSentence": "What happened? / What's wrong?",
+    "location": "Kyoto"
+  },
+  {
+    "id": 278,
+    "kansaiExpression": "どんつき",
+    "standardJapanese": "突き当り",
+    "englishTranslation": "end of the road/hallway, T-junction",
+    "exampleSentence": "この道をまっすぐ行って、どんつきを右や。",
+    "standardJapaneseSentence": "この道をまっすぐ行って、突き当りを右だよ。",
+    "englishSentence": "Go straight down this road, and it's on the right at the end.",
+    "location": "Kyoto"
+  },
+  {
+    "id": 279,
+    "kansaiExpression": "なんしか",
+    "standardJapanese": "とにかく",
+    "englishTranslation": "anyway, at any rate, for now",
+    "exampleSentence": "なんしか、行ってみまひょ。",
+    "standardJapaneseSentence": "とにかく、行ってみましょう。",
+    "englishSentence": "Anyway, let's try going.",
+    "location": "Kyoto"
+  },
+  {
+    "id": 280,
+    "kansaiExpression": "ぬくい",
+    "standardJapanese": "温かい",
+    "englishTranslation": "warm",
+    "exampleSentence": "今日はぬくいなあ。",
+    "standardJapaneseSentence": "今日は暖かいなあ。",
+    "englishSentence": "It's warm today.",
+    "location": "Kyoto"
+  },
+  {
+    "id": 281,
+    "kansaiExpression": "はばかりさん",
+    "standardJapanese": "おつかれさまでした",
+    "englishTranslation": "Thank you for your hard work/trouble (polite)",
+    "exampleSentence": "遅くまで はばかりさんどした。",
+    "standardJapaneseSentence": "遅くまでお疲れ様でした。",
+    "englishSentence": "Thank you for working so late.",
+    "location": "Kyoto"
+  },
+  {
+    "id": 282,
+    "kansaiExpression": "はんなり",
+    "standardJapanese": "上品で華やかな様子",
+    "englishTranslation": "elegant, refined, graceful, gentle and bright",
+    "exampleSentence": "はんなりした着物どすなあ。",
+    "standardJapaneseSentence": "上品で華やかな着物ですねえ。",
+    "englishSentence": "That's an elegant and bright kimono.",
+    "location": "Kyoto"
+  },
+  {
+    "id": 283,
+    "kansaiExpression": "ぺちゃこい",
+    "standardJapanese": "平たい",
+    "englishTranslation": "flat",
+    "exampleSentence": "このパン、ぺちゃこいやんか。",
+    "standardJapaneseSentence": "このパン、平たいじゃないか。",
+    "englishSentence": "This bread is flat.",
+    "location": "Kyoto"
+  },
+  {
+    "id": 284,
+    "kansaiExpression": "べべた",
+    "standardJapanese": "最後",
+    "englishTranslation": "last place, bottom",
+    "exampleSentence": "かけっこで べべたやった。",
+    "standardJapaneseSentence": "かけっこで最後だった。",
+    "englishSentence": "I came in last in the race.",
+    "location": "Kyoto"
+  },
+  {
+    "id": 285,
+    "kansaiExpression": "べんちゃら",
+    "standardJapanese": "お世辞",
+    "englishTranslation": "flattery, lip service, insincere compliments",
+    "exampleSentence": "べんちゃら言うてもあかんで。",
+    "standardJapaneseSentence": "お世辞を言ってもだめだよ。",
+    "englishSentence": "Flattery won't get you anywhere.",
+    "location": "Kyoto"
+  },
+  {
+    "id": 286,
+    "kansaiExpression": "ぼちぼち",
+    "standardJapanese": "まあまあ",
+    "englishTranslation": "so-so, reasonably well, slowly, little by little",
+    "exampleSentence": "儲かりまっか？ ぼちぼちでんなあ。",
+    "standardJapaneseSentence": "儲かっていますか？ まあまあですねえ。",
+    "englishSentence": "Making good money? So-so.",
+    "location": "Kyoto"
+  },
+  {
+    "id": 287,
+    "kansaiExpression": "ほっこり",
+    "standardJapanese": "くつろいだ様子",
+    "englishTranslation": "relaxed, feeling warm and fuzzy, cozy, relieved",
+    "exampleSentence": "お茶飲んでほっこりしまひょ。",
+    "standardJapaneseSentence": "お茶を飲んでくつろぎましょう。",
+    "englishSentence": "Let's have some tea and relax.",
+    "location": "Kyoto"
+  },
+  {
+    "id": 288,
+    "kansaiExpression": "ほな",
+    "standardJapanese": "それじゃあね",
+    "englishTranslation": "Well then, See you",
+    "exampleSentence": "ほな、また。",
+    "standardJapaneseSentence": "それじゃあ、また。",
+    "englishSentence": "Well then, see you.",
+    "location": "Kyoto"
+  },
+  {
+    "id": 289,
+    "kansaiExpression": "ほんま",
+    "standardJapanese": "ほんとう",
+    "englishTranslation": "really, true, truly",
+    "exampleSentence": "ほんま、ええ天気やなあ。",
+    "standardJapaneseSentence": "ほんとうに、いい天気だなあ。",
+    "englishSentence": "It's really nice weather.",
+    "location": "Kyoto"
+  },
+  {
+    "id": 290,
+    "kansaiExpression": "ほんまに？",
+    "standardJapanese": "ほんとうに？",
+    "englishTranslation": "Really?",
+    "exampleSentence": "ほんまに？ 信じられへんわ。",
+    "standardJapaneseSentence": "ほんとうに？ 信じられないわ。",
+    "englishSentence": "Really? I can't believe it.",
+    "location": "Kyoto"
+  },
+  {
+    "id": 291,
+    "kansaiExpression": "まったり",
+    "standardJapanese": "やわらかく、こくのある味",
+    "englishTranslation": "mellow, rich (taste); relaxed, laid-back (mood)",
+    "exampleSentence": "このコーヒー、まったりして美味しいわ。(taste) / 家で まったりする のが好きや。(mood)",
+    "standardJapaneseSentence": "このコーヒーは、まろやかでコクがあって美味しいわ。/ 家でのんびりするのが好きだ。",
+    "englishSentence": "This coffee is mellow and rich, it's delicious. / I like relaxing at home.",
+    "location": "Kyoto"
+  },
+  {
+    "id": 292,
+    "kansaiExpression": "見つからへん",
+    "standardJapanese": "見つからない",
+    "englishTranslation": "can't find (it)",
+    "exampleSentence": "鍵、どこ置いたか見つからへん。",
+    "standardJapaneseSentence": "鍵をどこに置いたか見つからない。",
+    "englishSentence": "I can't find where I put my keys.",
+    "location": "Kyoto"
+  },
+  {
+    "id": 293,
+    "kansaiExpression": "見とくれやす",
+    "standardJapanese": "ご覧下さい",
+    "englishTranslation": "Please look (polite)",
+    "exampleSentence": "こちらの絵を 見とくれやす。",
+    "standardJapaneseSentence": "こちらの絵をご覧下さい。",
+    "englishSentence": "Please look at this painting.",
+    "location": "Kyoto"
+  },
+  {
+    "id": 294,
+    "kansaiExpression": "ややこ",
+    "standardJapanese": "赤ん坊",
+    "englishTranslation": "baby, infant",
+    "exampleSentence": "隣の ややこ、よう泣くわ。",
+    "standardJapaneseSentence": "隣の赤ん坊は、よく泣くなあ。",
+    "englishSentence": "The baby next door cries a lot.",
+    "location": "Kyoto"
+  },
+  {
+    "id": 295,
+    "kansaiExpression": "よぉいわんわ",
+    "standardJapanese": "何を言っているの！",
+    "englishTranslation": "What are you saying!, That's ridiculous!",
+    "exampleSentence": "そんなアホなこと、よぉいわんわ。",
+    "standardJapaneseSentence": "そんな馬鹿なことを、よく言えるね！",
+    "englishSentence": "How can you say such stupid things!",
+    "location": "Kyoto"
+  },
+  {
+    "id": 296,
+    "kansaiExpression": "よばれる",
+    "standardJapanese": "ごちそうになる",
+    "englishTranslation": "be treated to a meal, partake of (food/drink)",
+    "exampleSentence": "晩ごはん、よばれてきます。",
+    "standardJapaneseSentence": "晩ごはんを、ごちそうになってきます。",
+    "englishSentence": "I'm going to be treated to dinner.",
+    "location": "Kyoto"
+  }
+]

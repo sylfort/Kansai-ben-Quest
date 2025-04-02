@@ -1,0 +1,543 @@
+[
+    
+  {
+    "id": 449,
+    "kansaiExpression": "あいやこ",
+    "standardJapanese": "一緒に持つ",
+    "englishTranslation": "carry together, share carrying",
+    "exampleSentence": "重いから あいやこ しよか。",
+    "standardJapaneseSentence": "重いから一緒に持とうか。",
+    "englishSentence": "It's heavy, shall we carry it together?",
+    "location": "Nara"
+  },
+  {
+    "id": 450,
+    "kansaiExpression": "あののーら",
+    "standardJapanese": "あのね",
+    "englishTranslation": "You know..., Say... (getting someone's attention)",
+    "exampleSentence": "あののーら、ちょっと聞いてもええ？",
+    "standardJapaneseSentence": "あのね、ちょっと聞いてもいい？",
+    "englishSentence": "Say, can I ask you something?",
+    "location": "Nara"
+  },
+  {
+    "id": 451,
+    "kansaiExpression": "あんじょう",
+    "standardJapanese": "うまく",
+    "englishTranslation": "skillfully, well, properly",
+    "exampleSentence": "あんじょう 片付けときや。",
+    "standardJapaneseSentence": "うまく片付けておきなさいよ。",
+    "englishSentence": "Tidy it up properly.",
+    "location": "Nara"
+  },
+  {
+    "id": 452,
+    "kansaiExpression": "いがむ",
+    "standardJapanese": "ゆがむ",
+    "englishTranslation": "be distorted, be warped, be crooked",
+    "exampleSentence": "写真、いがんでもうてるやん。",
+    "standardJapaneseSentence": "写真がゆがんでしまっているじゃないか。",
+    "englishSentence": "The picture is distorted.",
+    "location": "Nara"
+  },
+  {
+    "id": 453,
+    "kansaiExpression": "いぬ",
+    "standardJapanese": "帰る",
+    "englishTranslation": "go home, return",
+    "exampleSentence": "暗なる前に いぬ で。",
+    "standardJapaneseSentence": "暗くなる前に帰るよ。",
+    "englishSentence": "I'll head home before it gets dark.",
+    "location": "Nara"
+  },
+  {
+    "id": 454,
+    "kansaiExpression": "いらう",
+    "standardJapanese": "触る",
+    "englishTranslation": "touch, handle, meddle with",
+    "exampleSentence": "熱いから いらうな よ。",
+    "standardJapaneseSentence": "熱いから触るなよ。",
+    "englishSentence": "It's hot, so don't touch it.",
+    "location": "Nara"
+  },
+  {
+    "id": 455,
+    "kansaiExpression": "いらち",
+    "standardJapanese": "短気な人",
+    "englishTranslation": "impatient person, short-tempered person",
+    "exampleSentence": "いらち やから待たれへんねん。",
+    "standardJapaneseSentence": "短気だから待てないんだ。",
+    "englishSentence": "I'm impatient, so I can't wait.",
+    "location": "Nara"
+  },
+  {
+    "id": 456,
+    "kansaiExpression": "いらん",
+    "standardJapanese": "いらない",
+    "englishTranslation": "don't need, unnecessary",
+    "exampleSentence": "これ、もう いらんわ。",
+    "standardJapaneseSentence": "これ、もういらないよ。",
+    "englishSentence": "I don't need this anymore.",
+    "location": "Nara"
+  },
+  {
+    "id": 457,
+    "kansaiExpression": "うすい",
+    "standardJapanese": "アホ",
+    "englishTranslation": "fool, idiot (perhaps milder?)",
+    "exampleSentence": "あんた、うすいなあ。",
+    "standardJapaneseSentence": "あなたは、アホだなあ。",
+    "englishSentence": "You're a fool.",
+    "location": "Nara"
+  },
+  {
+    "id": 458,
+    "kansaiExpression": "えらい",
+    "standardJapanese": "たいそうな",
+    "englishTranslation": "grand, exaggerated, serious, terrible",
+    "exampleSentence": "えらい 騒ぎになってるなあ。",
+    "standardJapaneseSentence": "たいそうな騒ぎになっているなあ。",
+    "englishSentence": "It's become quite a commotion.",
+    "location": "Nara"
+  },
+  {
+    "id": 459,
+    "kansaiExpression": "おいで",
+    "standardJapanese": "いっらしゃい",
+    "englishTranslation": "Welcome, Come in (casual)",
+    "exampleSentence": "まあ、こっち おいで。",
+    "standardJapaneseSentence": "まあ、こっちにいらっしゃい。",
+    "englishSentence": "Well, come over here.",
+    "location": "Nara"
+  },
+  {
+    "id": 460,
+    "kansaiExpression": "おかいさん",
+    "standardJapanese": "茶粥",
+    "englishTranslation": "tea porridge (chagayu)",
+    "exampleSentence": "奈良の名物はおかいさんやで。",
+    "standardJapaneseSentence": "奈良の名物は茶粥だよ。",
+    "englishSentence": "Nara's specialty is tea porridge.",
+    "location": "Nara"
+  },
+  {
+    "id": 461,
+    "kansaiExpression": "おとろしー",
+    "standardJapanese": "面倒くさい",
+    "englishTranslation": "troublesome, bothersome, tedious",
+    "exampleSentence": "この手続き、おとろしーなあ。",
+    "standardJapaneseSentence": "この手続きは、面倒くさいなあ。",
+    "englishSentence": "These procedures are troublesome.",
+    "location": "Nara"
+  },
+  {
+    "id": 462,
+    "kansaiExpression": "おとんぼ",
+    "standardJapanese": "末っ子",
+    "englishTranslation": "youngest child",
+    "exampleSentence": "うちのおとんぼは、まだ小さいねん。",
+    "standardJapaneseSentence": "うちの末っ子は、まだ小さいんだ。",
+    "englishSentence": "Our youngest child is still small.",
+    "location": "Nara"
+  },
+  {
+    "id": 463,
+    "kansaiExpression": "かえとこ",
+    "standardJapanese": "取り替えっこ",
+    "englishTranslation": "exchange, swap",
+    "exampleSentence": "シール、かえとこ しよ。",
+    "standardJapaneseSentence": "シールを、取り替えっこしよう。",
+    "englishSentence": "Let's swap stickers.",
+    "location": "Nara"
+  },
+  {
+    "id": 464,
+    "kansaiExpression": "がしんたれ",
+    "standardJapanese": "ケチ",
+    "englishTranslation": "stingy person, miser",
+    "exampleSentence": "あいつは がしんたれ やから、絶対おごらへん。",
+    "standardJapaneseSentence": "あいつはケチだから、絶対におごらない。",
+    "englishSentence": "He's stingy, so he'll never treat anyone.",
+    "location": "Nara"
+  },
+  {
+    "id": 465,
+    "kansaiExpression": "きけた",
+    "standardJapanese": "疲れた",
+    "englishTranslation": "tired, exhausted",
+    "exampleSentence": "よう歩いたさかい、きけたわ。",
+    "standardJapaneseSentence": "よく歩いたから、疲れたよ。",
+    "englishSentence": "I walked a lot, so I'm tired.",
+    "location": "Nara"
+  },
+  {
+    "id": 466,
+    "kansaiExpression": "きさんじ",
+    "standardJapanese": "生真面目",
+    "englishTranslation": "overly serious, earnest, methodical",
+    "exampleSentence": "きさんじ な 性格やなあ。",
+    "standardJapaneseSentence": "生真面目な性格だなあ。",
+    "englishSentence": "What an earnest personality.",
+    "location": "Nara"
+  },
+  {
+    "id": 467,
+    "kansaiExpression": "きっしょ",
+    "standardJapanese": "きっかけ",
+    "englishTranslation": "chance, start, cue, excuse, motive",
+    "exampleSentence": "それが きっしょ で 始めたんや。",
+    "standardJapaneseSentence": "それがきっかけで始めたんだ。",
+    "englishSentence": "That was the reason I started it.",
+    "location": "Nara"
+  },
+  {
+    "id": 468,
+    "kansaiExpression": "けなるい",
+    "standardJapanese": "うらやましい",
+    "englishTranslation": "envious, jealous",
+    "exampleSentence": "新しい車、けなるいわ。",
+    "standardJapaneseSentence": "新しい車、うらやましいよ。",
+    "englishSentence": "I'm envious of your new car.",
+    "location": "Nara"
+  },
+  {
+    "id": 469,
+    "kansaiExpression": "こころわるい",
+    "standardJapanese": "気持ちがよくない、不快",
+    "englishTranslation": "unpleasant, feel bad/uneasy",
+    "exampleSentence": "そんなん聞いたら こころわるい わ。",
+    "standardJapaneseSentence": "そんなの聞いたら気分が悪いよ。",
+    "englishSentence": "Hearing that makes me feel bad.",
+    "location": "Nara"
+  },
+  {
+    "id": 470,
+    "kansaiExpression": "こすい",
+    "standardJapanese": "ずるい",
+    "englishTranslation": "sly, cunning, unfair",
+    "exampleSentence": "それは こすい やり方や。",
+    "standardJapaneseSentence": "それはずるいやり方だ。",
+    "englishSentence": "That's a sly way of doing things.",
+    "location": "Nara"
+  },
+  {
+    "id": 471,
+    "kansaiExpression": "ごっつ",
+    "standardJapanese": "とても",
+    "englishTranslation": "very, extremely",
+    "exampleSentence": "ごっつ 眠いわ。",
+    "standardJapaneseSentence": "とても眠いよ。",
+    "englishSentence": "I'm extremely sleepy.",
+    "location": "Nara"
+  },
+  {
+    "id": 472,
+    "kansaiExpression": "こまこい",
+    "standardJapanese": "せこい",
+    "englishTranslation": "petty, small-minded, stingy",
+    "exampleSentence": "こまこい こと言うなや。",
+    "standardJapaneseSentence": "せこいことを言うなよ。",
+    "englishSentence": "Don't say such petty things.",
+    "location": "Nara"
+  },
+  {
+    "id": 473,
+    "kansaiExpression": "ごんた",
+    "standardJapanese": "いたずらっこ、悪さをする子",
+    "englishTranslation": "mischievous child, naughty child, rascal",
+    "exampleSentence": "この ごんた 坊主！",
+    "standardJapaneseSentence": "このいたずらっ子め！",
+    "englishSentence": "You little rascal!",
+    "location": "Nara"
+  },
+  {
+    "id": 474,
+    "kansaiExpression": "しらこい",
+    "standardJapanese": "白々しい",
+    "englishTranslation": "feigned ignorance, transparent (lie), barefaced",
+    "exampleSentence": "しらこい 顔すな。",
+    "standardJapaneseSentence": "白々しい顔をするな。",
+    "englishSentence": "Don't put on that innocent face.",
+    "location": "Nara"
+  },
+  {
+    "id": 475,
+    "kansaiExpression": "せたらう",
+    "standardJapanese": "背負う",
+    "englishTranslation": "carry on one's back",
+    "exampleSentence": "荷物 せたらうて 行こか。",
+    "standardJapaneseSentence": "荷物を背負って行こうか。",
+    "englishSentence": "Shall we go carrying the luggage on our backs?",
+    "location": "Nara"
+  },
+  {
+    "id": 476,
+    "kansaiExpression": "せんど",
+    "standardJapanese": "何度も",
+    "englishTranslation": "many times, repeatedly",
+    "exampleSentence": "せんど 言うたやろ！",
+    "standardJapaneseSentence": "何度も言っただろう！",
+    "englishSentence": "I told you many times!",
+    "location": "Nara"
+  },
+  {
+    "id": 477,
+    "kansaiExpression": "ちょこぼる",
+    "standardJapanese": "その場にかがむ",
+    "englishTranslation": "squat down on the spot",
+    "exampleSentence": "疲れて道端に ちょこぼった。",
+    "standardJapaneseSentence": "疲れて道端にかがみこんだ。",
+    "englishSentence": "I was tired and squatted down on the roadside.",
+    "location": "Nara"
+  },
+  {
+    "id": 478,
+    "kansaiExpression": "つかえる",
+    "standardJapanese": "混雑する",
+    "englishTranslation": "be congested, be blocked, be backed up",
+    "exampleSentence": "道が つかえて 全然進まん。",
+    "standardJapaneseSentence": "道が混雑して全然進まない。",
+    "englishSentence": "The road is congested and we're not moving at all.",
+    "location": "Nara"
+  },
+  {
+    "id": 479,
+    "kansaiExpression": "てれこ",
+    "standardJapanese": "反対",
+    "englishTranslation": "opposite, reverse, switched",
+    "exampleSentence": "順番が てれこ やで。",
+    "standardJapaneseSentence": "順番が反対だよ。",
+    "englishSentence": "The order is reversed.",
+    "location": "Nara"
+  },
+  {
+    "id": 480,
+    "kansaiExpression": "てんご",
+    "standardJapanese": "いたずらする",
+    "englishTranslation": "do mischief, play a prank",
+    "exampleSentence": "こら、てんご すな！",
+    "standardJapaneseSentence": "こら、いたずらするな！",
+    "englishSentence": "Hey, stop your mischief!",
+    "location": "Nara"
+  },
+  {
+    "id": 481,
+    "kansaiExpression": "どやぐ",
+    "standardJapanese": "大声で叫ぶ",
+    "englishTranslation": "shout loudly, yell",
+    "exampleSentence": "何 どやいでんねん。",
+    "standardJapaneseSentence": "何を大声で叫んでいるんだ。",
+    "englishSentence": "What are you yelling about?",
+    "location": "Nara"
+  },
+  {
+    "id": 482,
+    "kansaiExpression": "ながたん",
+    "standardJapanese": "包丁",
+    "englishTranslation": "kitchen knife",
+    "exampleSentence": "この ながたん、よう切れるわ。",
+    "standardJapaneseSentence": "この包丁は、よく切れるね。",
+    "englishSentence": "This kitchen knife cuts well.",
+    "location": "Nara"
+  },
+  {
+    "id": 483,
+    "kansaiExpression": "なかなか",
+    "standardJapanese": "どういたしまして",
+    "englishTranslation": "You're welcome",
+    "exampleSentence": "「おおきに」 「なかなか」",
+    "standardJapaneseSentence": "「ありがとう」 「どういたしまして」",
+    "englishSentence": "\"Thank you\" \"You're welcome\"",
+    "location": "Nara"
+  },
+  {
+    "id": 484,
+    "kansaiExpression": "なんじゅー",
+    "standardJapanese": "困る",
+    "englishTranslation": "be troubled, be in difficulty",
+    "exampleSentence": "そない言われても なんじゅーわ。",
+    "standardJapaneseSentence": "そんなことを言われても困るよ。",
+    "englishSentence": "Even if you say that, it troubles me.",
+    "location": "Nara"
+  },
+  {
+    "id": 485,
+    "kansaiExpression": "ぬくい",
+    "standardJapanese": "温かい",
+    "englishTranslation": "warm",
+    "exampleSentence": "こたつ、ぬくいなあ。",
+    "standardJapaneseSentence": "こたつは、温かいなあ。",
+    "englishSentence": "The kotatsu is warm.",
+    "location": "Nara"
+  },
+  {
+    "id": 486,
+    "kansaiExpression": "ねき",
+    "standardJapanese": "近く",
+    "englishTranslation": "near, close by, beside",
+    "exampleSentence": "家の ねき に公園あるねん。",
+    "standardJapaneseSentence": "家の近くに公園があるんだ。",
+    "englishSentence": "There's a park near my house.",
+    "location": "Nara"
+  },
+  {
+    "id": 487,
+    "kansaiExpression": "ねまる",
+    "standardJapanese": "疲れている",
+    "englishTranslation": "be tired, be exhausted",
+    "exampleSentence": "今日はよう働いたさかい、ねまってもうた。",
+    "standardJapaneseSentence": "今日はよく働いたから、疲れてしまった。",
+    "englishSentence": "I worked hard today, so I'm exhausted.",
+    "location": "Nara"
+  },
+  {
+    "id": 488,
+    "kansaiExpression": "はそん",
+    "standardJapanese": "修繕",
+    "englishTranslation": "repair, mending",
+    "exampleSentence": "屋根の はそん せなあかん。",
+    "standardJapaneseSentence": "屋根の修繕をしなければいけない。",
+    "englishSentence": "The roof needs repairing.",
+    "location": "Nara"
+  },
+  {
+    "id": 489,
+    "kansaiExpression": "はんがい",
+    "standardJapanese": "腹立つ",
+    "englishTranslation": "get angry, irritating",
+    "exampleSentence": "はんがい こと 言うな。",
+    "standardJapaneseSentence": "腹が立つことを言うな。",
+    "englishSentence": "Don't say irritating things.",
+    "location": "Nara"
+  },
+  {
+    "id": 490,
+    "kansaiExpression": "ひやこい",
+    "standardJapanese": "冷たい",
+    "englishTranslation": "cold (to touch)",
+    "exampleSentence": "この水、ひやこい！",
+    "standardJapaneseSentence": "この水、冷たい！",
+    "englishSentence": "This water is cold!",
+    "location": "Nara"
+  },
+  {
+    "id": 491,
+    "kansaiExpression": "ぺちゃこい",
+    "standardJapanese": "平べったい",
+    "englishTranslation": "flat",
+    "exampleSentence": "カバンが ぺちゃこい なってもうた。",
+    "standardJapaneseSentence": "カバンが平べったくなってしまった。",
+    "englishSentence": "My bag got flattened.",
+    "location": "Nara"
+  },
+  {
+    "id": 492,
+    "kansaiExpression": "へちゃ、へちゃむくれ",
+    "standardJapanese": "ブサイク、ブス",
+    "englishTranslation": "ugly, unattractive (offensive)",
+    "exampleSentence": "人のこと へちゃ とか言うたらあかんで。",
+    "standardJapaneseSentence": "人のことをブサイクとか言ったらだめだよ。",
+    "englishSentence": "You shouldn't call people ugly.",
+    "location": "Nara"
+  },
+  {
+    "id": 493,
+    "kansaiExpression": "ほーせき",
+    "standardJapanese": "おやつ",
+    "englishTranslation": "snack",
+    "exampleSentence": "ほーせき の時間やで。",
+    "standardJapaneseSentence": "おやつの時間だよ。",
+    "englishSentence": "It's snack time.",
+    "location": "Nara"
+  },
+  {
+    "id": 494,
+    "kansaiExpression": "ぼっこ",
+    "standardJapanese": "ひどい",
+    "englishTranslation": "terrible, awful, severe",
+    "exampleSentence": "ぼっこ な目に遭うたわ。",
+    "standardJapaneseSentence": "ひどい目に遭ったよ。",
+    "englishSentence": "I had a terrible experience.",
+    "location": "Nara"
+  },
+  {
+    "id": 495,
+    "kansaiExpression": "ほんま",
+    "standardJapanese": "ほんとう",
+    "englishTranslation": "really, true, truly",
+    "exampleSentence": "ほんま に ええ天気やなあ。",
+    "standardJapaneseSentence": "本当にいい天気だなあ。",
+    "englishSentence": "It's really nice weather.",
+    "location": "Nara"
+  },
+  {
+    "id": 496,
+    "kansaiExpression": "ほんまに？",
+    "standardJapanese": "ほんとうに？",
+    "englishTranslation": "Really?",
+    "exampleSentence": "ほんまに それでええのん？",
+    "standardJapaneseSentence": "本当にそれでいいの？",
+    "englishSentence": "Is that really okay?",
+    "location": "Nara"
+  },
+  {
+    "id": 497,
+    "kansaiExpression": "まとう",
+    "standardJapanese": "弁償する",
+    "englishTranslation": "compensate, pay for (damages)",
+    "exampleSentence": "壊したんやったら、ま とわなあかんで。",
+    "standardJapaneseSentence": "壊したのなら、弁償しないといけないよ。",
+    "englishSentence": "If you broke it, you have to pay for it.",
+    "location": "Nara"
+  },
+  {
+    "id": 498,
+    "kansaiExpression": "まわり",
+    "standardJapanese": "準備",
+    "englishTranslation": "preparation, arrangements",
+    "exampleSentence": "旅行の まわり はできたか？",
+    "standardJapaneseSentence": "旅行の準備はできたか？",
+    "englishSentence": "Have you finished preparing for the trip?",
+    "location": "Nara"
+  },
+  {
+    "id": 499,
+    "kansaiExpression": "見えやん",
+    "standardJapanese": "見えない",
+    "englishTranslation": "cannot see, invisible",
+    "exampleSentence": "霧で よう 見えやん わ。",
+    "standardJapaneseSentence": "霧でよく見えないよ。",
+    "englishSentence": "I can't see well because of the fog.",
+    "location": "Nara"
+  },
+  {
+    "id": 500,
+    "kansaiExpression": "めんめ",
+    "standardJapanese": "わたし、各自、自分自身",
+    "englishTranslation": "I, me; each person, oneself",
+    "exampleSentence": "めんめ のことは めんめ でしいや。",
+    "standardJapaneseSentence": "自分のことは自分でしなさいよ。",
+    "englishSentence": "Do your own things yourself.",
+    "location": "Nara"
+  },
+  {
+    "id": 501,
+    "kansaiExpression": "もむない",
+    "standardJapanese": "おいしくない、まずい",
+    "englishTranslation": "not tasty, bad-tasting",
+    "exampleSentence": "この料理、ちょっと もむない なあ。",
+    "standardJapaneseSentence": "この料理は、ちょっとおいしくないなあ。",
+    "englishSentence": "This dish doesn't taste very good.",
+    "location": "Nara"
+  },
+  {
+    "id": 502,
+    "kansaiExpression": "やにこい",
+    "standardJapanese": "貧弱な",
+    "englishTranslation": "poor, flimsy, weak, frail",
+    "exampleSentence": "やにこい 作りやなあ。",
+    "standardJapaneseSentence": "貧弱な作りだなあ。",
+    "englishSentence": "It's poorly made.",
+    "location": "Nara"
+  }
+]

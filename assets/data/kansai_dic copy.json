@@ -177,7 +177,7 @@
     "exampleSentence": "風邪ひいたから、おかいさん作って。",
     "standardJapaneseSentence": "風邪をひいたから、お粥を作って。",
     "englishSentence": "I caught a cold, so please make some rice porridge.",
-    "location": "Kansai Region (also specifically Nara 'tea porridge')"
+    "location": "Kansai Region"
   },
   {
     "id": 19,
@@ -197,7 +197,7 @@
     "exampleSentence": "今日のお造りは何ですか？",
     "standardJapaneseSentence": "今日のさしみは何ですか？",
     "englishSentence": "What sashimi do you have today?",
-    "location": "Kansai Region (common in restaurants)"
+    "location": "Kansai Region"
   },
   {
     "id": 21,
@@ -267,7 +267,7 @@
     "exampleSentence": "この子、かいらしいなあ。",
     "standardJapaneseSentence": "この子、かわいらしいなあ。",
     "englishSentence": "This child is cute.",
-    "location": "Kansai Region (esp. Osaka)"
+    "location": "Kansai Region"
   },
   {
     "id": 28,
@@ -287,7 +287,7 @@
     "exampleSentence": "晩ごはんはかしわの唐揚げや。",
     "standardJapaneseSentence": "晩ごはんは鶏肉の唐揚げだ。",
     "englishSentence": "Dinner tonight is fried chicken.",
-    "location": "Kansai Region (esp. Hyogo)"
+    "location": "Kansai Region"
   },
   {
     "id": 30,
@@ -297,7 +297,7 @@
     "exampleSentence": "人がぎょうさんおるな。",
     "standardJapaneseSentence": "人がたくさんいるね。",
     "englishSentence": "There are a lot of people.",
-    "location": "Kansai Region (esp. Kyoto)"
+    "location": "Kansai Region"
   },
   {
     "id": 31,
@@ -307,7 +307,7 @@
     "exampleSentence": "はよ、飯食うで。",
     "standardJapaneseSentence": "早く、ご飯を食べるよ。",
     "englishSentence": "Hurry up and eat.",
-    "location": "Kansai Region (General Japanese, but common in Kansai casual speech)"
+    "location": "Kansai Region"
   },
   {
     "id": 32,
@@ -317,7 +317,7 @@
     "exampleSentence": "けったいな格好してるなあ。",
     "standardJapaneseSentence": "奇妙な格好をしているなあ。",
     "englishSentence": "What strange clothes they're wearing.",
-    "location": "Kansai Region (esp. Osaka)"
+    "location": "Kansai Region"
   },
   {
     "id": 33,
@@ -417,7 +417,7 @@
     "exampleSentence": "帰りしなにパン買うてきて。",
     "standardJapaneseSentence": "帰る途中でパンを買ってきて。",
     "englishSentence": "Buy some bread on your way home.",
-    "location": "Kansai Region (esp. Osaka, Kyoto)"
+    "location": "Kansai Region"
   },
   {
     "id": 43,
@@ -487,7 +487,7 @@
     "exampleSentence": "一人だけええもん食べんの、ずっこいわ。",
     "standardJapaneseSentence": "一人だけいいものを食べるのは、ずるいよ。",
     "englishSentence": "It's sly of you to eat the good stuff all by yourself.",
-    "location": "Kansai Region (すこい also Shiga, Kyoto, Hyogo)"
+    "location": "Kansai Region"
   },
   {
     "id": 50,
@@ -507,7 +507,7 @@
     "exampleSentence": "あいつ、ほんま せこいな。",
     "standardJapaneseSentence": "あいつは、本当にけちだな。",
     "englishSentence": "He's really tight with money.",
-    "location": "Kansai Region (also Nara 'こまこい')"
+    "location": "Kansai Region"
   },
   {
     "id": 52,
@@ -627,7 +627,7 @@
     "exampleSentence": "ご飯、もう炊けた？",
     "standardJapaneseSentence": "ご飯は、もう炊けた？ (Standard Japanese also uses 炊く for rice)",
     "englishSentence": "Is the rice cooked yet?",
-    "location": "Kansai Region (Used more broadly than just rice, e.g., for beans 'おまめさん炊く')"
+    "location": "Kansai Region"
   },
   {
     "id": 64,
@@ -767,7 +767,7 @@
     "exampleSentence": "使ったらちゃんと直しときや。",
     "standardJapaneseSentence": "使ったらちゃんと戻しておきなさい / 片付けておきなさい。",
     "englishSentence": "Put it back properly / Tidy it up after you use it.",
-    "location": "Kansai Region (esp. Osaka, Hyogo)"
+    "location": "Kansai Region"
   },
   {
     "id": 78,
@@ -827,7 +827,7 @@
     "exampleSentence": "今日はぬくいなあ。",
     "standardJapaneseSentence": "今日は暖かいなあ。",
     "englishSentence": "It's warm today.",
-    "location": "Kansai Region (also Kyoto, Nara)"
+    "location": "Kansai Region"
   },
   {
     "id": 84,
@@ -887,7 +887,7 @@
     "exampleSentence": "これ、もういらんからほかして。",
     "standardJapaneseSentence": "これ、もういらないから捨てて。",
     "englishSentence": "I don't need this anymore, so throw it away.",
-    "location": "Kansai Region (also Shiga, Osaka, Hyogo)"
+    "location": "Kansai Region"
   },
   {
     "id": 90,
@@ -1087,7 +1087,7 @@
     "exampleSentence": "みかん、ようけもろたで。",
     "standardJapaneseSentence": "みかんを、たくさんもらったよ。",
     "englishSentence": "I received a lot of mandarin oranges.",
-    "location": "Kansai Region (also Mie, Shiga, Osaka, Hyogo, Wakayama)"
+    "location": "Kansai Region"
   },
   {
     "id": 110,
@@ -1857,7 +1857,7 @@
     "exampleSentence": "そろそろいぬわ。",
     "standardJapaneseSentence": "そろそろ失礼するよ。(Lit: そろそろ去るよ)",
     "englishSentence": "I'll be leaving soon.",
-    "location": "Shiga (also Mie, Hyogo, Nara 'go home')"
+    "location": "Shiga"
   },
   {
     "id": 187,
@@ -1867,7 +1867,7 @@
     "exampleSentence": "展示品にいろうたらあかんで。",
     "standardJapaneseSentence": "展示品に触ったらだめだよ。",
     "englishSentence": "You mustn't touch the exhibits.",
-    "location": "Shiga (also Mie, Osaka, Hyogo, Nara)"
+    "location": "Shiga"
   },
   {
     "id": 188,
@@ -1907,7 +1907,7 @@
     "exampleSentence": "今日の仕事はえらかったわ。",
     "standardJapaneseSentence": "今日の仕事はしんどかったよ。",
     "englishSentence": "Today's work was tough.",
-    "location": "Shiga (also Mie)"
+    "location": "Shiga"
   },
   {
     "id": 192,
@@ -2077,7 +2077,7 @@
     "exampleSentence": "それはすこいわ！",
     "standardJapaneseSentence": "それはずるいよ！",
     "englishSentence": "That's unfair!",
-    "location": "Shiga (also Kansai Region, Kyoto, Hyogo)"
+    "location": "Shiga"
   },
   {
     "id": 209,
@@ -2117,7 +2117,7 @@
     "exampleSentence": "ちょっとくらい汚れてもだんないで。",
     "standardJapaneseSentence": "ちょっとくらい汚れてもかまわないよ。",
     "englishSentence": "It's okay if it gets a little dirty.",
-    "location": "Shiga (also Mie, Hyogo)"
+    "location": "Shiga"
   },
   {
     "id": 213,
@@ -2217,7 +2217,7 @@
     "exampleSentence": "ポストのねきで待ってるわ。",
     "standardJapaneseSentence": "ポストの側で待っているよ。",
     "englishSentence": "I'll be waiting near the postbox.",
-    "location": "Shiga (also Nara)"
+    "location": "Shiga"
   },
   {
     "id": 223,
@@ -2247,7 +2247,7 @@
     "exampleSentence": "ゴミほかしてきて。",
     "standardJapaneseSentence": "ゴミを捨ててきて。",
     "englishSentence": "Go throw out the garbage.",
-    "location": "Shiga (also Kansai Region, Osaka, Hyogo)"
+    "location": "Shiga"
   },
   {
     "id": 226,
