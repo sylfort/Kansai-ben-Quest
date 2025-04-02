@@ -1,15 +1,15 @@
 # Kansai Ben Quest
 
-An interactive Flutter application designed to help users learn the Kansai dialect (Kansai-ben) by exploring famous landmarks in the Kansai region of Japan, completing vocabulary lessons, and taking quizzes.
+An interactive Flutter application designed to help users learn the Kansai dialect (Kansai-ben) by exploring famous landmarks in the Kansai region of Japan.
 <p align="center">  <!-- Optional: align="center" or align="left" -->
   <img src="https://github.com/user-attachments/assets/d66a4a42-6b93-4eb8-a003-904de4cb730e" alt="Kansai Ben Quest image" width="300">
 </p>
 
 ## Current Features
 
-*   **Initial Splash Screen:** Displays a welcoming background image and a "Start" button.
-*   **Interactive Map (Basic):** Shows a map-like view of the Kansai region using separate image assets for different prefectures/areas.
-*   **Navigation:** Tapping a region navigates the user to the words and phrases for that prefecture (e.g., Kyoto, Osaka).
+*   **Initial Screen:** Displays a welcoming background image and a "Start" button.
+*   **Interactive Map:** Shows a map-like view of the Kansai region using landmarks for each prefecture.
+*   **Dictionary:** Tapping a region navigates the user to the words and phrases for that prefecture (e.g., Kyoto, Osaka).
 
 ## Getting Started
 
