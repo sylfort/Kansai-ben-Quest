@@ -21,7 +21,7 @@ To get started with development:
 2.  **Clone the repository:**
     ```bash
     git clone <repository-url>
-    cd flutter_application_1 # Or your project directory name
+    cd flutter_application_1
     ```
 3.  **Install dependencies:**
     ```bash
