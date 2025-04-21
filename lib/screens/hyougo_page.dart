@@ -136,7 +136,7 @@ class _HyougoPageState extends State<HyougoPage> {
       backgroundColor: kPrimaryBackgroundColor, // Set background color
       appBar: AppBar(
         title: const Text(
-          'Hyōgo - 兵庫県',
+          'Hyogo - 兵庫県',
           style: TextStyle(
             color: kPrimaryTextColor, // Dark text on AppBar
             fontWeight: FontWeight.bold,
