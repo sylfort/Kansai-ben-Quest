@@ -36,7 +36,7 @@ class MyApp extends StatelessWidget {
       ),
       home: const InitialScreen(),
       routes: {
-        '/map': (context) => MyHomePage(title: 'Kansai Region Map'),
+        '/map': (context) => MyHomePage(title: 'Kansai Map - click twice to see the dictionary!'),
         '/hyougo': (context) => const HyougoPage(),
         '/osaka': (context) => const OsakaPage(),
         '/kyouto': (context) => const KyotoPage(),
