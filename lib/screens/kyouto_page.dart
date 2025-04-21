@@ -131,7 +131,7 @@ class _KyotoPageState extends State<KyotoPage> {
       backgroundColor: kPrimaryBackgroundColor, // Set background color
       appBar: AppBar(
         title: const Text(
-          'Kyōto - 京都府', // Updated title for Kyoto
+          'Kyoto - 京都府', // Updated title for Kyoto
           style: TextStyle(
             color: kPrimaryTextColor, // Dark text on AppBar
             fontWeight: FontWeight.bold,
