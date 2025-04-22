@@ -1,22 +1,13 @@
 [
     
-  {
-    "id": 385,
-    "kansaiExpression": "あつかましい",
-    "standardJapanese": "忙しい",
-    "englishTranslation": "busy",
-    "exampleSentence": "今日は一日あつかましいわ。",
-    "standardJapaneseSentence": "今日は一日忙しいよ。",
-    "englishSentence": "I'm busy all day today.",
-    "location": "Hyogo"
-  },
+
   {
     "id": 386,
-    "kansaiExpression": "あはー",
+    "kansaiExpression": "アホ",
     "standardJapanese": "ばか",
     "englishTranslation": "fool, idiot",
-    "exampleSentence": "もー、あんたは あはー やなあ。",
-    "standardJapaneseSentence": "もう、あなたはアホだなあ。",
+    "exampleSentence": "もー、あんたは アホ やなあ。",
+    "standardJapaneseSentence": "もう、あなたはばかだなあ。",
     "englishSentence": "Geez, you're such a fool.",
     "location": "Hyogo"
   },

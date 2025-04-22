@@ -76,8 +76,8 @@ class _MyHomePageState extends State<MyHomePage> {
       'hitTestRects': [ const Rect.fromLTWH(0, 0, 275, 265), ],
       'charTopOffset': 170.0,
       'charLeftOffset': 128.0,
-      'charWidth': 60.0,
-      'charHeight': 70.0,
+      'charWidth': 90.0,
+      'charHeight': 90.0,
     },
     {
       'name': 'Wakayama',
@@ -86,8 +86,8 @@ class _MyHomePageState extends State<MyHomePage> {
       'route': '/wakayama',
       'top': 420.0, 'left': 300.0,
       'hitTestRects': [ const Rect.fromLTWH(0, 30, 180, 215), ],
-      'charTopOffset': 120.0, 'charLeftOffset': 110.0, // ADJUST
-      'charWidth': 55.0, 'charHeight': 65.0, // ADJUST
+      'charTopOffset': 120.0, 'charLeftOffset': 110.0,
+      'charWidth': 90.0, 'charHeight': 90.0,
     },
      {
       'name': 'Kyoto',
@@ -97,7 +97,7 @@ class _MyHomePageState extends State<MyHomePage> {
       'top': 60.0, 'left': 260.0,
       'hitTestRects': [ const Rect.fromLTWH(0, 0, 225, 250), ],
       'charTopOffset': 125.0, 'charLeftOffset': 130.0,
-      'charWidth': 60.0, 'charHeight': 70.0,
+      'charWidth': 90.0, 'charHeight': 90.0,
     },
      {
       'name': 'Nara',
@@ -107,7 +107,7 @@ class _MyHomePageState extends State<MyHomePage> {
       'top': 325.0, 'left': 390.0,
       'hitTestRects': [ const Rect.fromLTWH(71, 0, 150, 220), ],
       'charTopOffset': 110.0, 'charLeftOffset': 125.0, 
-      'charWidth': 50.0, 'charHeight': 65.0, 
+      'charWidth': 90.0, 'charHeight': 90.0, 
     },
      {
       'name': 'Shiga',
@@ -117,7 +117,7 @@ class _MyHomePageState extends State<MyHomePage> {
       'top': 80.0, 'left': 440.0,
       'hitTestRects': [ const Rect.fromLTWH(82, 31, 208, 190), ],
       'charTopOffset': 115.0, 'charLeftOffset': 135.0, 
-      'charWidth': 55.0, 'charHeight': 65.0, 
+      'charWidth': 90.0, 'charHeight': 90.0, 
     },
      {
       'name': '0saka',
@@ -126,18 +126,18 @@ class _MyHomePageState extends State<MyHomePage> {
       'route': '/osaka',
       'top': 269.0, 'left': 342.0,
       'hitTestRects': [ const Rect.fromLTWH(48, 7, 131, 190), const Rect.fromLTWH(0, 179, 114, 216), ],
-      'charTopOffset': 100.0, 'charLeftOffset': 80.0,
-      'charWidth': 60.0, 'charHeight': 70.0,
+      'charTopOffset': 120.0, 'charLeftOffset': 90.0,
+      'charWidth': 90.0, 'charHeight': 90.0,
     },
     {
       'name': 'Mie',
       'image': 'assets/images/mie.png',
       'charImage': 'assets/images/mie_char.png',
       'route': '/mie',
-      'top': 200.0, 'left': 460.0, // Example position
+      'top': 200.0, 'left': 460.0,
       'hitTestRects': [ const Rect.fromLTWH(0, 0, 200, 230), ],
       'charTopOffset': 175.0, 'charLeftOffset': 160.0,
-      'charWidth': 55.0, 'charHeight': 65.0,
+      'charWidth': 90.0, 'charHeight': 90.0,
     },
   ];
 
@@ -257,7 +257,7 @@ class _MyHomePageState extends State<MyHomePage> {
                             child: Text(
                               _selectedPrefectureName,
                               style: TextStyle(
-                                color: Theme.of(context).colorScheme.onSurface, // Text color on card
+                                color: Theme.of(context).colorScheme.onSurface,
                                 fontSize: 20.0,
                                 fontWeight: FontWeight.bold,
                               ),
