@@ -96,8 +96,8 @@ class _MyHomePageState extends State<MyHomePage> {
       'route': '/kyouto',
       'top': 60.0, 'left': 260.0,
       'hitTestRects': [ const Rect.fromLTWH(0, 0, 225, 250), ],
-      'charTopOffset': 125.0, 'charLeftOffset': 130.0, // ADJUST
-      'charWidth': 60.0, 'charHeight': 70.0, // ADJUST
+      'charTopOffset': 125.0, 'charLeftOffset': 130.0,
+      'charWidth': 60.0, 'charHeight': 70.0,
     },
      {
       'name': 'Nara',
@@ -276,6 +276,3 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
-
-// Optional: Keep DestinationPage only if you might use it for other placeholders
-// class DestinationPage extends StatelessWidget { ... }
